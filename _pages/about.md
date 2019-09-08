@@ -54,14 +54,14 @@ My [doctoral thesis](https://doi.org/10.7916/D8FX7G35) is on multi-agent control
 |[Dong-Yup Lee](https://scholar.google.com/citations?user=EV0PUBIAAAAJ&hl=en)|Bio|Advisor|
 |[Stephen S. Morse](https://www.mailman.columbia.edu/people/our-faculty/ssm20)|Public health|Collaborator|
 |[Babatunde A. Ogunnaike](http://research.che.udel.edu/research_groups/systems/)|Systems|Advisor|
+|[J. Vincent Price](https://www.linkedin.com/in/vince-price-5a676440/)|Bio|Collaborator|
 |[Anne S. Robinson](https://www.cmu.edu/cheme/people/faculty/anne-s-robinson.html)|Bio|Collaborator|
 |[Gene Schaefer](https://www.linkedin.com/in/gene-schaefer-b9a0564/)|Bio|Collaborator|
 |[Rajiv Sethi](http://www.columbia.edu/~rs328/)|Economics|Collaborator|
 |[Jay Sethuraman](https://ieor.columbia.edu/faculty/jay-sethuraman)|Economics|Collaborator|
-|[Nick Silitch](https://www.linkedin.com/in/nicholas-silitch-1b4997/)|Finance|Collaborator|
 |[Raghu Shivappa](https://www.linkedin.com/in/raghu-shivappa-7318085/)|Bio|Collaborator|
+|[Nick Silitch](https://www.linkedin.com/in/nicholas-silitch-1b4997/)|Finance|Collaborator|
 |[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu)|Systems|Advisor|
-|[J. Vincent Price](https://www.linkedin.com/in/vince-price-5a676440/)|Bio|Collaborator|
 |[Albert Zhizun Zhang](https://zazhang.github.io)|Finance|Collaborator|
 
 <!-- My advisors and collaborators come from the following diverse backgrounds (names in alphabetical order):
