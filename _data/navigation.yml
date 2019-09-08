@@ -1,0 +1,22 @@
+# main links links
+main:
+  # - title: "People"
+  #   url: /people/    
+
+  - title: "CV"
+    url: /experience/    
+
+  # - title: "Publications"
+  #   url: /publications/
+
+  - title: "News"
+    url: /news/  
+
+  - title: "Portfolio"
+    url: /portfolio/    
+        
+  # - title: "CV"
+  #   url: /cv/
+    
+  # - title: "Guide"
+  #   url: /markdown/
