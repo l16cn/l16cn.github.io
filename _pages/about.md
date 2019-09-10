@@ -51,7 +51,7 @@ My [doctoral thesis](https://doi.org/10.7916/D8FX7G35) is on multi-agent control
 |[Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|Optimization|Advisor|
 |[Adrian Wing-Keung Law](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=CWKLAW&CategoryDescription=WaterSustainability)|Civil engineering|Advisor|
 |[Matthew J. Lazzara](http://faculty.virginia.edu/lazzara/)|Bio|Collaborator|
-|[Dong-Yup Lee](https://scholar.google.com/citations?user=EV0PUBIAAAAJ&hl=en)|Bio|Advisor|
+|[Dong-Yup Lee](https://sites.google.com/view/skku-pdse/professor?authuser=0)|Bio|Advisor|
 |[Stephen S. Morse](https://www.mailman.columbia.edu/people/our-faculty/ssm20)|Public health|Collaborator|
 |[Babatunde A. Ogunnaike](http://research.che.udel.edu/research_groups/systems/)|Systems|Advisor|
 |[J. Vincent Price](https://www.linkedin.com/in/vince-price-5a676440/)|Bio|Collaborator|
