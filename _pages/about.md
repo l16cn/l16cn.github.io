@@ -10,7 +10,7 @@ redirect_from:
 
 ### What are my core research interests?
 
-My core research interests are data, complex systems, and the human factor under the general theme of decision-making. How to make better decisions is a fundamental question for individuals, organizations, and societies, and there is no easy answer. Systems research, especially process systems engineering (PSE), with the help of artificial intelligence (AI), is the approach I'll focus on to tackle some of the decision-making challenges in chemical engineering, biomanufacturing, and society.
+My core research interests are data, complex systems, and the human factor under the general theme of decision-making. How to make better decisions is a fundamental question for individuals, organizations, and societies, and there is no easy answer. Systems research, especially process systems engineering (PSE), with the help of [artificial intelligence](https://aiche.onlinelibrary.wiley.com/doi/full/10.1002/aic.16489) (AI), is the approach I'll focus on to tackle some of the decision-making challenges in chemical engineering, biomanufacturing, and society.
 
 | Data | Complex Systems | Human Factor |
 | :--------------------: | :--------------------: | :---------------------: |
