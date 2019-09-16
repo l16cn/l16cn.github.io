@@ -24,11 +24,14 @@ See more info at https://academicpages.github.io/
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
 - Clone the repository and made updates as detailed above
-- Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
+- Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs` (Linux)
+    + On macOS: follow this [link](https://jekyllrb.com/docs/installation/macos/) to install jekyll
 - Run `bundle clean` to clean up the directory (no need to run `--force`)
 - Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 - Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change. 
     + Run `jekyll serve` to serve from localhost without liveserve (but overriding `site.url` and using localhost instead of the site host)
+    + If `jekyll serve` gives the "You must use Bundler 2 or greater with this lockfile" error message, try `gem update --system` then `bundler update --bundler`
+    + If `jekyll serve` gives an error message like "You have already activated i18n 1.6.0, but your Gemfile requires i18n 0.9.5. Prepending `bundle exec` to your command may solve this. (Gem::LoadError)", follow the suggestion and prepend `bundle exec` to `jekyll serve`
 
 # Changelog -- bugfixes and enhancements
 
