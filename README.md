@@ -32,6 +32,12 @@ See more info at https://academicpages.github.io/
     + Run `jekyll serve` to serve from localhost without liveserve (but overriding `site.url` and using localhost instead of the site host)
     + If `jekyll serve` gives the "You must use Bundler 2 or greater with this lockfile" error message, try `gem update --system` then `bundler update --bundler`
     + If `jekyll serve` gives an error message like "You have already activated i18n 1.6.0, but your Gemfile requires i18n 0.9.5. Prepending `bundle exec` to your command may solve this. (Gem::LoadError)", follow the suggestion and prepend `bundle exec` to `jekyll serve`
+- [Target blank feature](https://keith-mifsud.me/projects/jekyll-target-blank)
+    + In `gemfile`, include `gem 'jekyll-target-blank'` under `group :jekyll_plugins do`
+    + In `_config.yml`, include `- jekyll-target-blank` under `plugins:`
+    + Run `bundle update`
+    + Run `bundle install`
+    + Be sure to only use ASCII in URLs and 
 
 # Changelog -- bugfixes and enhancements
 
