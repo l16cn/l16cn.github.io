@@ -46,6 +46,7 @@ _Version: 2019-09-29_ ([PDF](../files/2_cv.pdf))
 |**Yu Luo**, Ashutosh Nanda, Shivaram Rajgopal, Vinay Ramesh, Zhizun Zhang, Catherine Zhao, and Venkat Venkatasubramanian. A data-driven early warning system for mining accidents. In _Global Congress on Process Safety_, San Antonio, TX, March 2017. Oral presentation|
 |**Yu Luo**, Garud Iyengar, and Venkat Venkatasubramanian. The control of self-interested agents: learning from nature’s wisdom of crowds. In _AIChE Annual Meeting_, San Francisco, CA, November 2016. Oral presentation. **Finalist and travel grant recipient for the AIChE CAST Division Director’s Student Presentation Award**|
 |**Yu Luo**, Richard Bookstaber, Paul Glasserman, Garud Iyengar, Zhizun Zhang, and Venkat Venkatasubramanian. Process systems engineering beyond chemical plants: signed digraph as a modeling tool for analyzing systemic risk in financial networks. In _AIChE Annual Meeting_, San Francisco, CA, November 2016. Oral presentation|
+|**Yu Luo**. Process systems engineering beyond chemical plants. In _AIChE Annual Meeting_, San Francisco, CA, November 2016. Poster presentation|
 |**Yu Luo**, Garud Iyengar, and Venkat Venkatasubramanian. Soft regulation: coordinating distributed self-interested agents in sociotechnical systems. In _AIChE Annual Meeting_, Atlanta, GA, November 2014. Oral presentation|
 
 ### Research
@@ -62,8 +63,8 @@ _Version: 2019-09-29_ ([PDF](../files/2_cv.pdf))
 
 |Time|Role|Course|Affiliation|
 |:-|:-|:-|:-|
-|Spring 2016|Guest Lecturer|Managing Systemic Risk in Complex Systems (Graduate)|Columbia University|
-|Fall 2015|Guest Lecturer|Managing Systemic Risk in Complex Systems (Graduate)|Columbia University|
+|Spring 2016|Student Lecturer|Managing Systemic Risk in Complex Systems (Graduate)|Columbia University|
+|Fall 2015|Student Lecturer|Managing Systemic Risk in Complex Systems (Graduate)|Columbia University|
 |Spring 2012|Teaching Assistant|Molecular Phenomena (Undergraduate)|Columbia University|
 |Fall 2011|Teaching Assistant|Thermodynamics (Undergraduate)|Columbia University|
 
