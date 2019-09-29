@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2019-09-23_
+_Created: 2014-03-06. Modified: 2019-09-29_
 
 ### What are my core research interests?
 
