@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2019-09-29_ ([PDF](../files/2_cv.pdf))
+_Version: 2019-10-03_ ([PDF](../files/2_cv.pdf))
 
 ### Education
 
@@ -23,7 +23,7 @@ _Version: 2019-09-29_ ([PDF](../files/2_cv.pdf))
 |**Yu Luo**, Garud Iyengar, and Venkat Venkatasubramanian. A one-third advice rule based on a control-theoretic opinion dynamics model. _IEEE Transactions on Computational Social Systems_, 6(3):576–581, June 2019 ([PDF](../files/08704276.pdf))|
 |Venkat Venkatasubramanian, **Yu Luo**, and Zhizun Zhang. Control of complex sociotechnical systems: importance of causal models and game theory. _Computers & Chemical Engineering_, 123:1–11, April 2019 ([PDF](../files/1-s2.0-S0098135418308020-main.pdf))|
 |**Yu Luo**, Garud Iyengar, and Venkat Venkatasubramanian. Social influence makes self-interested crowds smarter: an optimal control perspective. _IEEE Transactions on Computational Social Systems_, 5(1):200–209, March 2018 ([PDF](../files/08252783.pdf))|
-|Garud Iyengar, **Yu Luo**, Shivaram Rajgopal, Venkat Venkatasubramanian, and Zhizun Zhang. Towards a financial statement based approach to modeling systemic risk in insurance and banking. _Columbia Business School Research Paper_, 17(177), July 2017. Available at SSRN. **Featured by the “SSRN Top Ten List” in Banking and Insurance; Risk Management and Analysis in Financial Institutions; Risk Management; and Financial Crises categories** ([PDF](../files/SSRN-id3008946.pdf))|
+|Garud Iyengar, **Yu Luo**, Shivaram Rajgopal, Venkat Venkatasubramanian, and Zhizun Zhang. Towards a financial statement based approach to modeling systemic risk in insurance and banking. _Columbia Business School Research Paper_, 17(177), July 2017. Available at SSRN. **Featured by the “SSRN Top Ten List” in Banking and Insurance, Risk Management and Analysis in Financial Institutions, Risk Management, and Financial Crises categories** ([PDF](../files/SSRN-id3008946.pdf))|
 |**Yu Luo**, Garud Iyengar, and Venkat Venkatasubramanian. Soft regulation with crowd recommendation: coordinating self-interested agents in sociotechnical systems under imperfect information. _PLoS ONE_, 11(3):e0150343, March 2016 ([PDF](../files/journal.pone.0150343.PDF))|
 |Venkat Venkatasubramanian, **Yu Luo**, and Jay Sethuraman. How much inequality in income is fair? A microeconomic game theoretic perspective. _Physica A: Statistical Mechanics and its Applications_, 435:120–138, October 2015. **Featured by the “ScienceDirect Top 25 List of Most Downloaded Articles”** ([PDF](../files/1-s2.0-S0378437115003738-main.pdf))|
 |Richard Bookstaber, Paul Glasserman, Garud Iyengar, **Yu Luo**, Venkat Venkatasubramanian, and Zhizun Zhang. Process systems engineering as a modeling paradigm for analyzing systemic risk in financial networks. _The Journal of Investing_, 24(2):147–162, May 2015 ([PDF](../files/joi2E20152E242E22E147.pdf))|
