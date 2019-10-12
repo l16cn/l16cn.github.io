@@ -5,15 +5,26 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2019-10-03_ ([PDF](../files/2_cv.pdf))
+_Version: 2019-10-12_ ([PDF](../files/2_cv.pdf))
 
-### Education
+### Education and Training
 
 |Time|Degree|School|
 |:-|:-|:-|
+|05/2020|Postdoctoral Researcher, Chemical Engineering|University of Delaware|
 |02/2017|Doctor of Philosophy, Chemical Engineering|Columbia University<!-- , Graduate School of Arts and Sciences -->|
 |05/2012|Master of Science, Chemical Engineering (**Full GPA**)|Columbia University<!-- , Fu Foundation School of Engineering and Applied Science -->|
 |06/2011|Bachelor of Engineering, Chemical Engineering (**First Class Honors**)|National University of Singapore<!-- , Faculty of Engineering -->|
+
+### Research
+
+|Time|Position|Affiliation|Supervisors|
+|:-|:-|:-|:-|
+|06/2017–Present|Postdoctoral Researcher|University of Delaware, Chemical and Biomolecular Engineering|[Babatunde A. Ogunnaike](http://research.che.udel.edu/research_groups/systems/), [Kelvin H. Lee](https://leelab.org)|
+|01/2017–05/2017|Postdoctoral Researcher|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
+|09/2011–12/2016|Research and Teaching Assistant|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
+|08/2015–12/2015|Quantitative Analyst Intern|PNC Bank|[Sanjay Gupta](https://www.linkedin.com/in/sanjayguptanyc/), [Brian Burk](https://www.linkedin.com/in/brian-burk-45b59510/)|
+|05/2010–06/2011|Research Assistant|Singapore-MIT Alliance, Environmental Sensing and Modeling|[Adrian Wing-Keung Law](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=CWKLAW&CategoryDescription=WaterSustainability)|
 
 ### Publications and Presentations
 
@@ -48,16 +59,6 @@ _Version: 2019-10-03_ ([PDF](../files/2_cv.pdf))
 |**Yu Luo**, Richard Bookstaber, Paul Glasserman, Garud Iyengar, Zhizun Zhang, and Venkat Venkatasubramanian. Process systems engineering beyond chemical plants: signed digraph as a modeling tool for analyzing systemic risk in financial networks. In _AIChE Annual Meeting_, San Francisco, CA, November 2016. Oral presentation|
 |**Yu Luo**. Process systems engineering beyond chemical plants. In _AIChE Annual Meeting_, San Francisco, CA, November 2016. Poster presentation|
 |**Yu Luo**, Garud Iyengar, and Venkat Venkatasubramanian. Soft regulation: coordinating distributed self-interested agents in sociotechnical systems. In _AIChE Annual Meeting_, Atlanta, GA, November 2014. Oral presentation|
-
-### Research
-
-|Time|Position|Affiliation|Supervisors|
-|:-|:-|:-|:-|
-|06/2017–Present|Postdoctoral Researcher|University of Delaware, Chemical and Biomolecular Engineering|[Babatunde A. Ogunnaike](http://research.che.udel.edu/research_groups/systems/), [Kelvin H. Lee](https://leelab.org)|
-|01/2017–05/2017|Postdoctoral Researcher|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
-|09/2011–12/2016|Research and Teaching Assistant|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
-|08/2015–12/2015|Quantitative Analyst Intern|PNC Bank|[Sanjay Gupta](https://www.linkedin.com/in/sanjayguptanyc/), [Brian Burk](https://www.linkedin.com/in/brian-burk-45b59510/)|
-|05/2010–06/2011|Research Assistant|Singapore-MIT Alliance, Environmental Sensing and Modeling|[Adrian Wing-Keung Law](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=CWKLAW&CategoryDescription=WaterSustainability)|
 
 ### Teaching
 
