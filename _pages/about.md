@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2019-10-03_
+_Created: 2014-03-06. Modified: 2019-10-30_
+
+### Find Me at the 2019 AIChE Annual Meeting
+
+| Time | Title | Role | Location|
+|:-|:-|:-|:-|
+|Sun, November 10 (1:00 PM - 3:00 PM)|Systems Approach to Advanced Decision-Making in Chemical Engineering, Biomanufacturing, and Society (#6ii, [link](https://aiche.confex.com/aiche/2019/meetingapp.cgi/Paper/581945))| Presenter | Hyatt Regency Orlando - Regency Ballroom R/S|
+|Tue, November 12 (3:30 PM - 6:00 PM)|Process-wide and Operational Topics ([link](https://aiche.confex.com/aiche/2019/meetingapp.cgi/Session/42451))|Chair|Hyatt Regency Orlando - Celebration 6|
+|Thu, November 14 (12:55 PM - 1:20 PM)|Control of Glycosylation and Titer in Fed-Batch Monoclonal Antibody Production ([link](https://aiche.confex.com/aiche/2019/meetingapp.cgi/Paper/564778))|Presenter|Hyatt Regency Orlando - Celebration 6|
 
 ### What are my core research interests?
 
@@ -40,6 +48,10 @@ In the AI era, it is worth re-considering the role of human decision-making—al
 > Most people make the mistake of thinking design is what it looks like. People think it's this veneer—that the designers are handed this box and told, "Make it look good!" That's not what we think design is. It's not just what it looks like and feels like. Design is how it works. (Steve Jobs, 2003)
 
 <!-- The human factor is something we engineers tend to overlook, and yet it plays a vital role in engineering. At the core, it's a discussion about technology and human. I am interested in studying the closed-loop behavior of human decision-making: when we consider the human factor in a complex system, will it destabilize the system? We can use control and game theories to investigate the closed-loop stability of the system, to design efficient and robust mechanisms that consider consumer behaviors and incorporate feedback. We can also actively involve humans in an algorithmic environment, i.e., [human-in-the-loop](https://en.wikipedia.org/wiki/Human-in-the-loop) computing. My personal view is that algorithms should assist, not replace, human decision-making. At the same time, algorithms can be too quick, and their internal reasoning can be opaque and biased. Humans can act as a safeguard to reduce the occurrence of runaway situations. We are facing the profound challenge of technology and inequality. The gig economy, for example, has increased the efficiency of meeting demand, but at the same time, it also created new social issues. How do we solve those problems using technology? What are the implications for chemical engineering? -->
+
+| Research Interests and Topics |
+| :--------------------: |
+| ![](images/diagram.pdf) |
 
 ### What am I working on now?
 
