@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2019-10-30_
+_Created: 2014-03-06. Modified: 2020-01-18_
 
-### Find Me at the 2019 AIChE Annual Meeting
+<!-- ### Find Me at the 2019 AIChE Annual Meeting
 
 | Time | Title | Role | Location|
 |:-|:-|:-|:-|
 |Sun, November 10 (1:00 PM - 3:00 PM)|Systems Approach to Advanced Decision-Making in Chemical Engineering, Biomanufacturing, and Society (#6ii, [link](https://aiche.confex.com/aiche/2019/meetingapp.cgi/Paper/581945))| Presenter | Hyatt Regency Orlando - Regency Ballroom R/S|
 |Tue, November 12 (3:30 PM - 6:00 PM)|Process-wide and Operational Topics ([link](https://aiche.confex.com/aiche/2019/meetingapp.cgi/Session/42451))|Chair|Hyatt Regency Orlando - Celebration 6|
-|Thu, November 14 (12:55 PM - 1:20 PM)|Control of Glycosylation and Titer in Fed-Batch Monoclonal Antibody Production ([link](https://aiche.confex.com/aiche/2019/meetingapp.cgi/Paper/564778))|Presenter|Hyatt Regency Orlando - Celebration 6|
+|Thu, November 14 (12:55 PM - 1:20 PM)|Control of Glycosylation and Titer in Fed-Batch Monoclonal Antibody Production ([link](https://aiche.confex.com/aiche/2019/meetingapp.cgi/Paper/564778))|Presenter|Hyatt Regency Orlando - Celebration 6| -->
 
 ### What are my core research interests?
 
