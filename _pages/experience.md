@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2019-10-15_ ([PDF](../files/2_cv.pdf))
+_Version: 2020-01-18_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -41,6 +41,8 @@ _Version: 2019-10-15_ ([PDF](../files/2_cv.pdf))
 
 |Presentations|
 |:-|
+|**Yu Luo**, Devesh Radhakrishnan, Anne Robinson, and Babatunde A. Ogunnaike. Control of glycosylation and titer in fed-batch monoclonal antibody production. In _ACS National Meeting & Expo_, Philadelphia, PA, March 2020. Oral presentation|
+|**Yu Luo**. Smart biomanufacturing and smarter crowds: a process systems engineering + artificial intelligence approach. Clemson University, Clemson, SC, January 2020. Invited seminar|
 |**Yu Luo**, Devesh Radhakrishnan, Anne Robinson, and Babatunde A. Ogunnaike. Control of glycosylation and titer in fed-batch monoclonal antibody production. In _AIChE Annual Meeting_, Orlando, FL, November 2019. Oral presentation|
 |**Yu Luo**. Systems approach to advanced decision-making in chemical engineering, biomanufacturing, and society. In _AIChE Annual Meeting_, Orlando, FL, November 2019. Poster presentation|
 |**Yu Luo**. Systems and advanced decisions: from biomanufacturing to opinion dynamics applications. Imperial College London, London, U.K., June 2019. Invited seminar|
