@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2020-02-03_ ([PDF](../files/2_cv.pdf))
+_Version: 2020-02-16_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -41,6 +41,7 @@ _Version: 2020-02-03_ ([PDF](../files/2_cv.pdf))
 
 |Presentations|
 |:-|
+|**Yu Luo**, Devesh Radhakrishnan, Anne Robinson, and Babatunde A. Ogunnaike. Control of glycosylation and titer in fed-batch monoclonal antibody production. In _Cell Culture Engineering XVII_, Tucson, AZ, April 2020. Poster presentation|
 |**Yu Luo**, Devesh Radhakrishnan, Anne Robinson, and Babatunde A. Ogunnaike. Control of glycosylation and titer in fed-batch monoclonal antibody production. In _ACS National Meeting & Expo_, Philadelphia, PA, March 2020. Oral presentation|
 |**Yu Luo**. Smart biomanufacturing and smarter crowds: a process systems engineering + artificial intelligence approach. Purdue University, West Lafayette, IN, January 2020. Invited seminar|
 |**Yu Luo**. Smart biomanufacturing and smarter crowds: a process systems engineering + artificial intelligence approach. Clemson University, Clemson, SC, January 2020. Invited seminar|
