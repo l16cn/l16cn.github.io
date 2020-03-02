@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2020-02-16_ ([PDF](../files/2_cv.pdf))
+_Version: 2020-03-02_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -49,9 +49,9 @@ _Version: 2020-02-16_ ([PDF](../files/2_cv.pdf))
 |**Yu Luo**. Systems approach to advanced decision-making in chemical engineering, biomanufacturing, and society. In _AIChE Annual Meeting_, Orlando, FL, November 2019. Poster presentation|
 |**Yu Luo**. Systems and advanced decisions: from biomanufacturing to opinion dynamics applications. Imperial College London, London, U.K., June 2019. Invited seminar|
 |**Yu Luo**. Systems and advanced decisions: from biomanufacturing to opinion dynamics applications. Clarkson University, Potsdam, NY, June 2019. Invited seminar|
+|**Yu Luo**, J. Vincent Price, Robert J. Lovelett, Devesh Radhakrishnan, Kristopher Barnthouse, Gene Schaefer, John Cunningham, Ping Hu, Kelvin H. Lee, and Babatunde A. Ogunnaike. Multiscale modeling of antibody production and glycosylation for improved upstream process design. In _ACS National Meeting & Expo_, Orlando, FL, April 2019. Oral presentation|
 |**Yu Luo**. Systems and advanced decisions: from biomanufacturing to opinion dynamics applications. Stevens Institute of Technology, Hoboken, NJ, March 2019. Invited seminar|
 |**Yu Luo**. Systems and advanced decisions: from biomanufacturing to opinion dynamics applications. University of Waterloo, Waterloo, ON, Canada, March 2019. Invited seminar|
-|**Yu Luo**, J. Vincent Price, Robert J. Lovelett, Devesh Radhakrishnan, Kristopher Barnthouse, Gene Schaefer, John Cunningham, Ping Hu, Kelvin H. Lee, and Babatunde A. Ogunnaike. Multiscale modeling of antibody production and glycosylation for improved upstream process design. In _ACS National Meeting & Expo_, Orlando, FL, April 2019. Oral presentation|
 |**Yu Luo**, J. Vincent Price, Robert J. Lovelett, Devesh Radhakrishnan, Kristopher Barnthouse, Gene Schaefer, John Cunningham, Ping Hu, Kelvin H. Lee, and Babatunde A. Ogunnaike. Multiscale modeling of antibody production and glycosylation for improved upstream process design. In _Biotherapeutics and Vaccines Development (Gordon Research Conference)_, Galveston, TX, January 2019. Poster presentation|
 |**Yu Luo**, J. Vincent Price, Robert J. Lovelett, Devesh Radhakrishnan, Kristopher Barnthouse, Gene Schaefer, John Cunningham, Ping Hu, Kelvin H. Lee, Raghu Shivappa, and Babatunde A. Ogunnaike. Multiscale modeling of monoclonal antibody (mAb) production and glycosylation in a Chinese hamster ovary (CHO) cell culture process. In _AIChE Annual Meeting_, Pittsburgh, PA, October 2018. Oral presentation|
 |**Yu Luo**. Process systems engineering and artificial intelligence for advanced manufacturing: including applications to biopharmaceuticals. In _AIChE Annual Meeting_, Pittsburgh, PA, October 2018. Poster presentation|
