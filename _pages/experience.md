@@ -30,7 +30,7 @@ _Version: 2020-04-06_ ([PDF](../files/2_cv.pdf))
 
 |Publications|
 |:-|
-|Venkat Venkatasubramanian and **Yu Luo**. How much income inequality is fair? Nash bargaining solution and its connection to entropy. In Anindya Chakrabarti, Lukas Pichl, and Taisei Kaizoji, editors, _Network Theory and Agent-Based Modeling in Economics and Finance_. Springer, Singapore, December 2019. Accepted|
+|Venkat Venkatasubramanian and **Yu Luo**. How much income inequality is fair? Nash bargaining solution and its connection to entropy. In Anindya Chakrabarti, Lukas Pichl, and Taisei Kaizoji, editors, _Network Theory and Agent-Based Modeling in Economics and Finance_. Springer, Singapore, December 2019|
 |**Yu Luo**, Garud Iyengar, and Venkat Venkatasubramanian. A one-third advice rule based on a control-theoretic opinion dynamics model. _IEEE Transactions on Computational Social Systems_, 6(3):576–581, June 2019 ([PDF](../files/08704276.pdf))|
 |Venkat Venkatasubramanian, **Yu Luo**, and Zhizun Zhang. Control of complex sociotechnical systems: importance of causal models and game theory. _Computers & Chemical Engineering_, 123:1–11, April 2019 ([PDF](../files/1-s2.0-S0098135418308020-main.pdf))|
 |**Yu Luo**, Garud Iyengar, and Venkat Venkatasubramanian. Social influence makes self-interested crowds smarter: an optimal control perspective. _IEEE Transactions on Computational Social Systems_, 5(1):200–209, March 2018 ([PDF](../files/08252783.pdf))|
