@@ -26,6 +26,7 @@ See more info at https://academicpages.github.io/
 - Clone the repository and made updates as detailed above
 - Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs` (Linux)
     + On macOS: follow this [link](https://jekyllrb.com/docs/installation/macos/) to install jekyll
+        * Use `rbenv` for local Ruby environment
     + **Restart Terminal**
 - Run `bundle clean` to clean up the directory (no need to run `--force`)
 - Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.

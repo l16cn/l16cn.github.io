@@ -5,13 +5,13 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2020-04-22_ ([PDF](../files/2_cv.pdf))
+_Version: 2020-05-17_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
 |Time|Degree|School|
 |:-|:-|:-|
-|05/2020|Postdoctoral Researcher, Chemical Engineering|University of Delaware|
+|Present|Postdoctoral Researcher, Chemical Engineering|University of Delaware|
 |02/2017|Doctor of Philosophy, Chemical Engineering|Columbia University<!-- , Graduate School of Arts and Sciences -->|
 |05/2012|Master of Science, Chemical Engineering (**Full GPA**)|Columbia University<!-- , Fu Foundation School of Engineering and Applied Science -->|
 |06/2011|Bachelor of Engineering, Chemical Engineering (**First Class Honors**)|National University of Singapore<!-- , Faculty of Engineering -->|
@@ -86,12 +86,14 @@ _Version: 2020-04-22_ ([PDF](../files/2_cv.pdf))
 
 |Category|Skills|
 |:-|:-|
-|Language           |Python, R, MATLAB, JavaScript, SQL, LISP, HTML, and LaTeX|
-|Simulation         |SimuLink, COMSOL, NetLogo, and Aspen HYSYS|
-|Media              |Adobe Photoshop, Adobe Illustrator, Adobe Premiere, and Adobe After Effects|
+|Language           |Python, R, MATLAB, JavaScript, SQL, Lisp, HTML, LaTeX|
+|Simulation         |SimuLink, COMSOL, NetLogo,  Aspen HYSYS|
+|Creative           |Photoshop, Illustrator, graphic design, portrait painting, musical composition|
+
+<!-- |Media              |Adobe Photoshop, Adobe Illustrator, Adobe Premiere, and Adobe After Effects|
 |Graphic Design     |Vector art, brochure design, and event poster|
 |Traditional Art    |Portrait painting, calligraphy, and piano|
-|Creative Art       |Musical composition, song writing, and video editing|
+|Creative Art       |Musical composition, song writing, and video editing| -->
 
 
 
