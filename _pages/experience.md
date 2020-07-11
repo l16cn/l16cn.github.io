@@ -90,7 +90,7 @@ _Version: 2020-07-11_ ([PDF](../files/2_cv.pdf))
 |Category|Skills|
 |:-|:-|
 |Language           |Python, R, MATLAB, JavaScript, SQL, Lisp, HTML, LaTeX|
-|Simulation         |SimuLink, COMSOL, NetLogo,  Aspen HYSYS|
+|Simulation         |Simulink, COMSOL, NetLogo, Aspen HYSYS|
 |Creative           |Photoshop, Illustrator, graphic design, portrait painting, musical composition|
 
 <!-- |Media              |Adobe Photoshop, Adobe Illustrator, Adobe Premiere, and Adobe After Effects|
