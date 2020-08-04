@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2020-07-18_ ([PDF](../files/2_cv.pdf))
+_Version: 2020-08-03_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -30,7 +30,7 @@ _Version: 2020-07-18_ ([PDF](../files/2_cv.pdf))
 
 |Publications|
 |:-|
-|**Yu Luo**, Robert J. Lovelett, J. Vincent Price, Devesh Radhakrishnan, Kristopher Barnthouse, Ping Hu, Eugene Schaefer, John Cunningham, Kelvin H. Lee, Raghunath B. Shivappa, and Babatunde A. Ogunnaike. Modeling the effect of amino acids and copper on monoclonal antibody productivity and glycosylation: a modular approach. 2020. Under review|
+|**Yu Luo**, Robert J. Lovelett, J. Vincent Price, Devesh Radhakrishnan, Kristopher Barnthouse, Ping Hu, Eugene Schaefer, John Cunningham, Kelvin H. Lee, Raghunath B. Shivappa, and Babatunde A. Ogunnaike. Modeling the effect of amino acids and copper on monoclonal antibody productivity and glycosylation: a modular approach. _Biotechnology Journal_, 2020. Accepted|
 |Evan Wells, Liqing Song, Madison Greer, **Yu Luo**, Varghese Kurian, Babatunde A. Ogunnaike, and Anne S. Robinson. Media supplementation for targeted manipulation of monoclonal antibody galactosylation and fucosylation. _Biotechnology and Bioengineering_, 2020. In press|
 |Venkat Venkatasubramanian and **Yu Luo**. How much income inequality is fair? Nash bargaining solution and its connection to entropy. In Anindya Chakrabarti, Lukas Pichl, and Taisei Kaizoji, editors, _Network Theory and Agent-Based Modeling in Economics and Finance_. Springer, Singapore, December 2019 ([PDF](../files/2019c_nbs.pdf))|
 |**Yu Luo**, Garud Iyengar, and Venkat Venkatasubramanian. A one-third advice rule based on a control-theoretic opinion dynamics model. _IEEE Transactions on Computational Social Systems_, 6(3):576–581, June 2019 ([PDF](../files/08704276.pdf))|
