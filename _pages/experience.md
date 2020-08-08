@@ -44,6 +44,7 @@ _Version: 2020-08-03_ ([PDF](../files/2_cv.pdf))
 |Presentations|
 |:-|
 |**Yu Luo**, Varghese Kurian, Janine Buonato, Matthew J. Lazzara, and Babatunde A. Ogunnaike. Model-based approach for multivariate signaling regulation of epithelial-mesenchymal transition in pancreas cancer cells. In _AIChE Annual Meeting_, San Francisco, CA, November 2020. Oral presentation|
+|**Yu Luo**, Varghese Kurian, Janine Buonato, Matthew J. Lazzara, and Babatunde A. Ogunnaike. Model-based approach for multivariate signaling regulation of epithelial-mesenchymal transition in pancreas cancer cells. In _CSBC Annual Investigators Meeting_, Bethesda, MD, September 2020. Poster presentation|
 |**Yu Luo**, Devesh Radhakrishnan, Evan Wells, Deepro Banerjee, Liqing Song, Varghese Kurian, Anne Robinson, and Babatunde A. Ogunnaike. Control of glycosylation and titer in fed-batch monoclonal antibody production. In _Cell Culture Engineering XVII_, Tucson, AZ, April 2020. Poster presentation (rescheduled due to COVID-19)|
 |**Yu Luo**, Devesh Radhakrishnan, Evan Wells, Deepro Banerjee, Liqing Song, Varghese Kurian, Anne Robinson, and Babatunde A. Ogunnaike. Control of glycosylation and titer in fed-batch monoclonal antibody production. In _ACS National Meeting & Expo_, Philadelphia, PA, March 2020. Oral presentation (rescheduled due to COVID-19)|
 |**Yu Luo**. Smart biomanufacturing and smarter crowds: a process systems engineering + artificial intelligence approach. Purdue University, West Lafayette, IN, January 2020. Invited seminar|
