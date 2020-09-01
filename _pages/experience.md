@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2020-08-03_ ([PDF](../files/2_cv.pdf))
+_Version: 2020-08-08_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
