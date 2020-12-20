@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2020-11-07_ ([PDF](../files/2_cv.pdf))
+_Version: 2020-12-20_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -43,6 +43,7 @@ _Version: 2020-11-07_ ([PDF](../files/2_cv.pdf))
 
 |Presentations|
 |:-|
+|**Yu Luo**. Model-based control of biological processes: systems engineering in biomanufacturing. In _Chemical Engineering Future Faculty Seminar Series_, Santa Barbara, CA, December 2020. Oral presentation|
 |**Yu Luo**, Varghese Kurian, Janine Buonato, Matthew J. Lazzara, and Babatunde A. Ogunnaike. Model-based approach for multivariate signaling regulation of epithelial-mesenchymal transition in pancreas cancer cells. In _AIChE Annual Meeting_, San Francisco, CA, November 2020. Oral presentation|
 |**Yu Luo**. Model-based control of biological processes: systems engineering in biomanufacturing and cancer treatment. In _AIChE Annual Meeting_, San Francisco, CA, November 2020. Poster presentation|
 |**Yu Luo**. Model-based control of biological processes: systems engineering in biomanufacturing and cancer treatment. GSK, King of Prussia, PA, October 2020. Invited seminar|

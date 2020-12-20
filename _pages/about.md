@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2020-01-18_
+_Created: 2014-03-06. Modified: 2020-12-20_
 
 <!-- ### Find Me at the 2019 AIChE Annual Meeting
 
