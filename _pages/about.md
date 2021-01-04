@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2020-12-20_
+_Created: 2014-03-06. Modified: 2021-01-04_
+
+### News
+
+My &quot;modular&quot; job application LaTeX template is now available on [GitHub](https://github.com/l16cn/modular-faculty-template) and [Overleaf](https://www.overleaf.com/latex/templates/modular-faculty-template/ypdtgsfsshkw). Feedback is welcome!
 
 <!-- ### Find Me at the 2019 AIChE Annual Meeting
 
