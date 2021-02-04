@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yu Luo"
   avatar           : yu2017.jpg
-  bio              : "Postdoctoral Researcher"
-  location         : "New York, NY"
-  employer         : "University of Delaware"
+  bio              : "Investigator, GSK"
+  location         : "PA/NY"
+  # employer         : "University of Delaware"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=babatunde+ogunnaike"
   googlescholar    : "https://scholar.google.com/citations?user=KlAs0GcAAAAJ&hl=en"
-  email            : "yuluo at udel dot edu"
+  # email            : "yuluo at udel dot edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

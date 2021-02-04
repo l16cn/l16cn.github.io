@@ -7,6 +7,7 @@ author_profile: true
 
 |Date|News|
 |:-|:-|
+|2021-02-01|YL joined GSK (Biopharm Chemometrics and Process Modeling Expert).|
 |2020-10-30|YL was invited to give a webinar at GSK.|
 |2020-01-30|YL was invited to give a seminar at Purdue University in West Lafayette, IN.|
 |2020-01-16|YL was invited to give a seminar at Clemson University in Clemson, SC.|

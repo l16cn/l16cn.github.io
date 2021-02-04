@@ -11,7 +11,7 @@ _Version: 2020-12-20_ ([PDF](../files/2_cv.pdf))
 
 |Time|Degree|School|
 |:-|:-|:-|
-|Present|Postdoctoral Researcher, Chemical Engineering|University of Delaware|
+|01/2021|Postdoctoral Researcher, Chemical Engineering|University of Delaware|
 |02/2017|Doctor of Philosophy, Chemical Engineering|Columbia University<!-- , Graduate School of Arts and Sciences -->|
 |05/2012|Master of Science, Chemical Engineering (**Full GPA**)|Columbia University<!-- , Fu Foundation School of Engineering and Applied Science -->|
 |06/2011|Bachelor of Engineering, Chemical Engineering (**First Class Honors**)|National University of Singapore<!-- , Faculty of Engineering -->|
@@ -20,7 +20,8 @@ _Version: 2020-12-20_ ([PDF](../files/2_cv.pdf))
 
 |Time|Position|Affiliation|Supervisors|
 |:-|:-|:-|:-|
-|06/2017–Present|Postdoctoral Researcher|University of Delaware, Chemical and Biomolecular Engineering|[Babatunde A. Ogunnaike](http://research.che.udel.edu/research_groups/systems/), [Kelvin H. Lee](https://leelab.org)|
+|02/2021–Present|Investigator|GlaxoSmithKline|[Pramthesh Patel](https://www.linkedin.com/in/pramthesh-patel-b1625714)|
+|06/2017–01/2021|Postdoctoral Researcher|University of Delaware, Chemical and Biomolecular Engineering|[Babatunde A. Ogunnaike](http://research.che.udel.edu/research_groups/systems/), [Kelvin H. Lee](https://leelab.org)|
 |01/2017–05/2017|Postdoctoral Researcher|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
 |09/2011–12/2016|Research and Teaching Assistant|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
 |08/2015–12/2015|Quantitative Analyst Intern|PNC Bank|[Sanjay Gupta](https://www.linkedin.com/in/sanjayguptanyc/), [Brian Burk](https://www.linkedin.com/in/brian-burk-45b59510/)|

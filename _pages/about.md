@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2021-01-04_
+_Created: 2014-03-06. Modified: 2021-02-03_
 
 ### News
 
@@ -59,7 +59,7 @@ In the AI era, it is worth re-considering the role of human decision-making—al
 
 ### What am I working on now?
 
-I am currently a postdoctoral researcher at the University of Delaware. My research involves the modeling, design, and control of cell culture and [glycosylation](https://en.wikipedia.org/wiki/Glycosylation) processes in the manufacture of therapeutic [monoclonal antibodies](https://en.wikipedia.org/wiki/Monoclonal_antibody) (mAbs).
+I just started a new job at GSK as an investigator. <!-- I am currently a postdoctoral researcher at the University of Delaware. --> My research involves the modeling, monitoring, design, and control of cell culture and [glycosylation](https://en.wikipedia.org/wiki/Glycosylation) processes in the manufacture of therapeutic [monoclonal antibodies](https://en.wikipedia.org/wiki/Monoclonal_antibody) (mAbs).
 
 - Nature podcast: Monoclonal antibodies, from basic science to blockbuster drugs ([link](https://www.nature.com/articles/d41586-019-02595-4))
 - Ajit Varki: Nothing in glycobiology makes sense, except in the light of evolution ([PDF](files/varki2006nothing.pdf))
