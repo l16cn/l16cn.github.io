@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2020-12-20_ ([PDF](../files/2_cv.pdf))
+_Version: 2021-02-07_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -20,7 +20,7 @@ _Version: 2020-12-20_ ([PDF](../files/2_cv.pdf))
 
 |Time|Position|Affiliation|Supervisors|
 |:-|:-|:-|:-|
-|02/2021–Present|Investigator|GlaxoSmithKline|[Pramthesh Patel](https://www.linkedin.com/in/pramthesh-patel-b1625714)|
+|02/2021–Present|Investigator, Biopharm Chemometrics and Process Modeling Expert|GlaxoSmithKline, Microbial and Cell Culture Development|[Tim Lee](https://www.linkedin.com/public-profile/in/timboungwooklee), [Janice Fernandez](https://www.linkedin.com/in/janice-fernandez-8759b31ab), [Pramthesh Patel](https://www.linkedin.com/in/pramthesh-patel-b1625714)|
 |06/2017–01/2021|Postdoctoral Researcher|University of Delaware, Chemical and Biomolecular Engineering|[Babatunde A. Ogunnaike](http://research.che.udel.edu/research_groups/systems/), [Kelvin H. Lee](https://leelab.org)|
 |01/2017–05/2017|Postdoctoral Researcher|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
 |09/2011–12/2016|Research and Teaching Assistant|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
@@ -31,7 +31,7 @@ _Version: 2020-12-20_ ([PDF](../files/2_cv.pdf))
 
 |Publications|
 |:-|
-|**Yu Luo**, Robert J. Lovelett, J. Vincent Price, Devesh Radhakrishnan, Kristopher Barnthouse, Ping Hu, Eugene Schaefer, John Cunningham, Kelvin H. Lee, Raghunath B. Shivappa, and Babatunde A. Ogunnaike. Modeling the effect of amino acids and copper on monoclonal antibody productivity and glycosylation: a modular approach. _Biotechnology Journal_, 2020. In press|
+|**Yu Luo**, Robert J. Lovelett, J. Vincent Price, Devesh Radhakrishnan, Kristopher Barnthouse, Ping Hu, Eugene Schaefer, John Cunningham, Kelvin H. Lee, Raghunath B. Shivappa, and Babatunde A. Ogunnaike. Modeling the effect of amino acids and copper on monoclonal antibody productivity and glycosylation: A modular approach. _Biotechnology Journal_, 16(2):2000261, 2021 ([PDF](../files/biot.202000261.pdf))|
 |Evan Wells, Liqing Song, Madison Greer, **Yu Luo**, Varghese Kurian, Babatunde A. Ogunnaike, and Anne S. Robinson. Media supplementation for targeted manipulation of monoclonal antibody galactosylation and fucosylation. _Biotechnology and Bioengineering_, 117(11):3310–3321, July 2020|
 |Venkat Venkatasubramanian and **Yu Luo**. How much income inequality is fair? Nash bargaining solution and its connection to entropy. In Anindya Chakrabarti, Lukas Pichl, and Taisei Kaizoji, editors, _Network Theory and Agent-Based Modeling in Economics and Finance_. Springer, Singapore, December 2019 ([PDF](../files/2019c_nbs.pdf))|
 |**Yu Luo**, Garud Iyengar, and Venkat Venkatasubramanian. A one-third advice rule based on a control-theoretic opinion dynamics model. _IEEE Transactions on Computational Social Systems_, 6(3):576–581, June 2019 ([PDF](../files/08704276.pdf))|
