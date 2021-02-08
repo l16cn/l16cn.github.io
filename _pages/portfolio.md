@@ -17,6 +17,8 @@ _Please allow the page to load select Tumblr contents. For a complete list, plea
 
 ### Digital Designs
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/642510874265960448" data-did="efa172af71b07952eb72704e480cfefe0a3bf83c"><a href="https://l16cn.tumblr.com/post/642510874265960448/illustration-of-the-modular-modeling-approach">https://l16cn.tumblr.com/post/642510874265960448/illustration-of-the-modular-modeling-approach</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/179728701258" data-did="d1504999caaa39026f84a963bc68f29e81ab7c7a"><a href="http://l16cn.tumblr.com/post/179728701258/intelligent-chemical-engineering">http://l16cn.tumblr.com/post/179728701258/intelligent-chemical-engineering</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/58437545313" data-did="6f095794e606de7145e36be2825270ee9d6b07f2"><a href="http://l16cn.tumblr.com/post/58437545313/illustrations-for-center-for-the-management-of">http://l16cn.tumblr.com/post/58437545313/illustrations-for-center-for-the-management-of</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>
