@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2021-02-03_
+_Created: 2014-03-06. Modified: 2021-03-06_
 
 ### News
+
+I put together some writing tips: [https://yuluo.me/writing/](https://yuluo.me/writing/)
 
 My &quot;modular&quot; job application LaTeX template is now available on [GitHub](https://github.com/l16cn/modular-faculty-template) and [Overleaf](https://www.overleaf.com/latex/templates/modular-faculty-template/ypdtgsfsshkw). Feedback is welcome!
 
