@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2021-03-06_
+_Created: 2014-03-06. Modified: 2021-12-28_
 
 ### News
 
@@ -79,6 +79,7 @@ My [doctoral thesis](https://doi.org/10.7916/D8FX7G35) is on multi-agent control
 
 |Name|Field|Role|
 |:-|:-|:-|
+|[Bosede B. Afolabi](http://bosedeafolabi.com/)|Bio|Collaborator|
 |[Michael J. Betenbaugh](https://engineering.jhu.edu/chembe/faculty/michael-j-betenbaugh/)|Bio|Collaborator|
 |[Richard Bookstaber](https://www.linkedin.com/in/rick-bookstaber-34b7533/)|Finance|Collaborator|
 |[Brian Burk](https://www.linkedin.com/in/brian-burk-45b59510/)|Finance|Collaborator|
@@ -86,11 +87,13 @@ My [doctoral thesis](https://doi.org/10.7916/D8FX7G35) is on multi-agent control
 |[Mila González](https://twitter.com/milacgonzalez?lang=en)|Public health|Collaborator|
 |[Sanjay Gupta](https://www.linkedin.com/in/sanjayguptanyc/)|Finance|Collaborator|
 |[Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|Optimization|Advisor|
+|[Cleo Kontoravdi](https://www.imperial.ac.uk/people/cleo.kontoravdi98)|Bio|Collaborator|
 |[Adrian Wing-Keung Law](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=CWKLAW&CategoryDescription=WaterSustainability)|Civil engineering|Advisor|
 |[Matthew J. Lazzara](http://faculty.virginia.edu/lazzara/)|Bio|Collaborator|
 |[Dong-Yup Lee](https://sites.google.com/view/skku-pdse/professor?authuser=0)|Bio|Advisor|
 |[Stephen S. Morse](https://www.mailman.columbia.edu/people/our-faculty/ssm20)|Public health|Collaborator|
 |[Babatunde A. Ogunnaike](http://research.che.udel.edu/research_groups/systems/)|Systems|Advisor|
+|[Maria Papathanasiou](https://www.imperial.ac.uk/people/maria.papathanasiou11)|Bio|Collaborator|
 |[J. Vincent Price](https://www.linkedin.com/in/vince-price-5a676440/)|Bio|Collaborator|
 |[Anne S. Robinson](https://www.cmu.edu/cheme/people/faculty/anne-s-robinson.html)|Bio|Collaborator|
 |[Gene Schaefer](https://www.linkedin.com/in/gene-schaefer-b9a0564/)|Bio|Collaborator|

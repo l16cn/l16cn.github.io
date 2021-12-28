@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2021-02-07_ ([PDF](../files/2_cv.pdf))
+_Version: 2021-12-28_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -16,11 +16,24 @@ _Version: 2021-02-07_ ([PDF](../files/2_cv.pdf))
 |05/2012|Master of Science, Chemical Engineering (**Full GPA**)|Columbia University<!-- , Fu Foundation School of Engineering and Applied Science -->|
 |06/2011|Bachelor of Engineering, Chemical Engineering (**First Class Honors**)|National University of Singapore<!-- , Faculty of Engineering -->|
 
-### Research
+### Technical Strengths
+
+|Category|Skills|
+|:-|:-|
+|Language           |Python, R, MATLAB, JavaScript, SQL, Lisp, HTML, LaTeX|
+|Software           |SIMCA, Simulink, COMSOL, NetLogo, Aspen HYSYS|
+|Creative           |Photoshop, Illustrator, [graphic design](../portfolio), [portrait painting](../portfolio), [musical composition](../portfolio)|
+
+<!-- |Media              |Adobe Photoshop, Adobe Illustrator, Adobe Premiere, and Adobe After Effects|
+|Graphic Design     |Vector art, brochure design, and event poster|
+|Traditional Art    |Portrait painting, calligraphy, and piano|
+|Creative Art       |Musical composition, song writing, and video editing| -->
+
+### Experience
 
 |Time|Position|Affiliation|Supervisors|
 |:-|:-|:-|:-|
-|02/2021–Present|Investigator, Biopharm Chemometrics and Process Modeling Expert|GlaxoSmithKline, Microbial and Cell Culture Development|[Tim Lee](https://www.linkedin.com/public-profile/in/timboungwooklee), [Janice Fernandez](https://www.linkedin.com/in/janice-fernandez-8759b31ab), [Pramthesh Patel](https://www.linkedin.com/in/pramthesh-patel-b1625714)|
+|02/2021–Present|Investigator, Biopharm Chemometrics and Process Modeling Expert|GlaxoSmithKline, Microbial and Cell Culture Development|[Sameer Talwar](https://scholar.google.com/citations?user=KiDvjeYAAAAJ&hl=en), [Diana Ritz](https://www.linkedin.com/in/diana-b-ritz/), [Pramthesh Patel](https://www.linkedin.com/in/pramthesh-patel-b1625714)|
 |06/2017–01/2021|Postdoctoral Researcher|University of Delaware, Chemical and Biomolecular Engineering|[Babatunde A. Ogunnaike](http://research.che.udel.edu/research_groups/systems/), [Kelvin H. Lee](https://leelab.org)|
 |01/2017–05/2017|Postdoctoral Researcher|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
 |09/2011–12/2016|Research and Teaching Assistant|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
@@ -31,6 +44,7 @@ _Version: 2021-02-07_ ([PDF](../files/2_cv.pdf))
 
 |Publications|
 |:-|
+|**Yu Luo**, Varghese Kurian, and Babatunde A Ogunnaike. Bioprocess systems analysis, modeling, estimation, and control. _Current Opinion in Chemical Engineering_, 33:100705, 2021 ([PDF](../files/1-s2.0-S221133982100037X-main.pdf))|
 |**Yu Luo**, Robert J. Lovelett, J. Vincent Price, Devesh Radhakrishnan, Kristopher Barnthouse, Ping Hu, Eugene Schaefer, John Cunningham, Kelvin H. Lee, Raghunath B. Shivappa, and Babatunde A. Ogunnaike. Modeling the effect of amino acids and copper on monoclonal antibody productivity and glycosylation: A modular approach. _Biotechnology Journal_, 16(2):2000261, 2021 ([PDF](../files/biot.202000261.pdf))|
 |Evan Wells, Liqing Song, Madison Greer, **Yu Luo**, Varghese Kurian, Babatunde A. Ogunnaike, and Anne S. Robinson. Media supplementation for targeted manipulation of monoclonal antibody galactosylation and fucosylation. _Biotechnology and Bioengineering_, 117(11):3310–3321, July 2020 ([PDF](../files/bit.27496.pdf))|
 |Venkat Venkatasubramanian and **Yu Luo**. How much income inequality is fair? Nash bargaining solution and its connection to entropy. In Anindya Chakrabarti, Lukas Pichl, and Taisei Kaizoji, editors, _Network Theory and Agent-Based Modeling in Economics and Finance_. Springer, Singapore, December 2019 ([PDF](../files/2019c_nbs.pdf))|
@@ -44,6 +58,7 @@ _Version: 2021-02-07_ ([PDF](../files/2_cv.pdf))
 
 |Presentations|
 |:-|
+|**Yu Luo**. What does the cell say? How to be a better “listener” and “motivate” cells to work harder through advanced data analytics and modeling approaches. In _GSK BPD Science Symposium (Internal)_, King of Prussia, PA, November 2021. Oral presentation|
 |**Yu Luo**. Model-based control of biological processes: systems engineering in biomanufacturing. In _Chemical Engineering Future Faculty Seminar Series_, Santa Barbara, CA, December 2020. Oral presentation|
 |**Yu Luo**, Varghese Kurian, Janine Buonato, Matthew J. Lazzara, and Babatunde A. Ogunnaike. Model-based approach for multivariate signaling regulation of epithelial-mesenchymal transition in pancreas cancer cells. In _AIChE Annual Meeting_, San Francisco, CA, November 2020. Oral presentation|
 |**Yu Luo**. Model-based control of biological processes: systems engineering in biomanufacturing and cancer treatment. In _AIChE Annual Meeting_, San Francisco, CA, November 2020. Poster presentation|
@@ -85,27 +100,21 @@ _Version: 2021-02-07_ ([PDF](../files/2_cv.pdf))
 
 |Time|Role|Organization|
 |:-|:-|:-|
-|04/2019–Present|Reviewer|The Canadian Journal of Chemical Engineering|
-|12/2012–Present|Outstanding Reviewer|Journal of Computers and Chemical Engineering|
+|12/2012–Present|Reviewer|_Computers and Chemical Engineering_. **Recognized as an outstanding reviewer**|
+|||_Biotechnology and Bioengineering_|
+|||_IEEE Conference on Decision and Control_|
+|||_The Canadian Journal of Chemical Engineering_|
+|||_AIChE Journal_|
+|||_Scientific Reports_|
+|||_Frontiers Physiology_|
+|||_Metabolic Engineering Communications_|
+|||_Biotechnology Journal_|
+|||_Chemical Engineering Research and Design_|
 |11/2014–Present|Member, Session Chair|AIChE|
 |12/2012–05/2017|Webmaster, Event Assistant, Graphic Designer|Columbia University, Center for the Management of Systemic Risk|
 
-### Technical Strengths
-
-|Category|Skills|
-|:-|:-|
-|Language           |Python, R, MATLAB, JavaScript, SQL, Lisp, HTML, LaTeX|
-|Simulation         |Simulink, COMSOL, NetLogo, Aspen HYSYS|
-|Creative           |Photoshop, Illustrator, graphic design, portrait painting, musical composition|
-
-<!-- |Media              |Adobe Photoshop, Adobe Illustrator, Adobe Premiere, and Adobe After Effects|
-|Graphic Design     |Vector art, brochure design, and event poster|
-|Traditional Art    |Portrait painting, calligraphy, and piano|
-|Creative Art       |Musical composition, song writing, and video editing| -->
-
-
-
-
+<!-- |04/2019–Present|Reviewer|The Canadian Journal of Chemical Engineering|
+|12/2012–Present|Outstanding Reviewer|Journal of Computers and Chemical Engineering| -->
 
 
 <!-- <tr>
