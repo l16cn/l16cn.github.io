@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2021-12-28_
+_Created: 2014-03-06. Modified: 2022-12-22_
+
+### Formal bio
+
+Yu Luo is an investigator and core modeler in the Biopharm Drug Substance Process Development Department at GSK. He leads a matrix PAT team to deploy Raman technology to support development and industrialization at pilot and commercial scales. He also routinely uses process systems engineering and data science skills to enhance the productivity of multiple assets. Yu joined GSK in 2021. Prior to that, Yu earned his Ph.D. in Chemical Engineering at Columbia University and worked as a postdoc at the University of Delaware, specializing in model-based control of biological and multi-agent processes. 
 
 ### News
 
@@ -59,9 +63,9 @@ In the AI era, it is worth re-considering the role of human decision-making—al
 | :--------------------: |
 | ![](images/diagram.pdf) |
 
-### What am I working on now?
+### What did I work on as a postdoc?
 
-I just started a new job at GSK as an investigator. <!-- I am currently a postdoctoral researcher at the University of Delaware. --> My research involves the modeling, monitoring, design, and control of cell culture and [glycosylation](https://en.wikipedia.org/wiki/Glycosylation) processes in the manufacture of therapeutic [monoclonal antibodies](https://en.wikipedia.org/wiki/Monoclonal_antibody) (mAbs).
+<!-- I joined GSK as an investigator. I am currently a postdoctoral researcher at the University of Delaware. --> My research involves the modeling, monitoring, design, and control of cell culture and [glycosylation](https://en.wikipedia.org/wiki/Glycosylation) processes in the manufacture of therapeutic [monoclonal antibodies](https://en.wikipedia.org/wiki/Monoclonal_antibody) (mAbs).
 
 - Nature podcast: Monoclonal antibodies, from basic science to blockbuster drugs ([link](https://www.nature.com/articles/d41586-019-02595-4))
 - Ajit Varki: Nothing in glycobiology makes sense, except in the light of evolution ([PDF](files/varki2006nothing.pdf))

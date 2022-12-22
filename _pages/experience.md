@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2021-12-28_ ([PDF](../files/2_cv.pdf))
+_Version: 2022-12-22_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -31,10 +31,12 @@ _Version: 2021-12-28_ ([PDF](../files/2_cv.pdf))
 
 ### Experience
 
+<!-- [Babatunde A. Ogunnaike](http://research.che.udel.edu/research_groups/systems/) -->
+
 |Time|Position|Affiliation|Supervisors|
 |:-|:-|:-|:-|
-|02/2021–Present|Investigator, Biopharm Chemometrics and Process Modeling Expert|GlaxoSmithKline, Microbial and Cell Culture Development|[Sameer Talwar](https://scholar.google.com/citations?user=KiDvjeYAAAAJ&hl=en), [Diana Ritz](https://www.linkedin.com/in/diana-b-ritz/), [Pramthesh Patel](https://www.linkedin.com/in/pramthesh-patel-b1625714)|
-|06/2017–01/2021|Postdoctoral Researcher|University of Delaware, Chemical and Biomolecular Engineering|[Babatunde A. Ogunnaike](http://research.che.udel.edu/research_groups/systems/), [Kelvin H. Lee](https://leelab.org)|
+|02/2021–Present|Investigator, Biopharm Chemometrics and Process Modeling Expert|GSK, Biopharm Drug Substance Process Development|[Sameer Talwar](https://scholar.google.com/citations?user=KiDvjeYAAAAJ&hl=en), [Diana Ritz](https://www.linkedin.com/in/diana-b-ritz/)|
+|06/2017–01/2021|Postdoctoral Researcher|University of Delaware, Chemical and Biomolecular Engineering|[Babatunde A. Ogunnaike](https://yuluo.me/bao-website/), [Kelvin H. Lee](https://leelab.org)|
 |01/2017–05/2017|Postdoctoral Researcher|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
 |09/2011–12/2016|Research and Teaching Assistant|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
 |08/2015–12/2015|Quantitative Analyst Intern|PNC Bank|[Sanjay Gupta](https://www.linkedin.com/in/sanjayguptanyc/), [Brian Burk](https://www.linkedin.com/in/brian-burk-45b59510/)|
@@ -44,7 +46,8 @@ _Version: 2021-12-28_ ([PDF](../files/2_cv.pdf))
 
 |Publications|
 |:-|
-|**Yu Luo**, Varghese Kurian, and Babatunde A Ogunnaike. Bioprocess systems analysis, modeling, estimation, and control. _Current Opinion in Chemical Engineering_, 33:100705, 2021 ([PDF](../files/1-s2.0-S221133982100037X-main.pdf))|
+|**Yu Luo**, Johanna Vappiani, Keegan Orzechowski, Pramthesh Patel, Daniel Sevin, and Juan Aon. Metabolic rewiring revealed by cell-specific rate analyses from nontargeted exometabolomics during simultaneous consumption of glucose and lactic acid in a cho fed-batch process. _Journal of Biotechnology_, 359:161–175, 2022 ([PDF](../files/1-s2.0-S0168165622002413-main.pdf))|
+|**Yu Luo**, Varghese Kurian, and Babatunde A. Ogunnaike. Bioprocess systems analysis, modeling, estimation, and control. _Current Opinion in Chemical Engineering_, 33:100705, 2021 ([PDF](../files/1-s2.0-S221133982100037X-main.pdf))|
 |**Yu Luo**, Robert J. Lovelett, J. Vincent Price, Devesh Radhakrishnan, Kristopher Barnthouse, Ping Hu, Eugene Schaefer, John Cunningham, Kelvin H. Lee, Raghunath B. Shivappa, and Babatunde A. Ogunnaike. Modeling the effect of amino acids and copper on monoclonal antibody productivity and glycosylation: A modular approach. _Biotechnology Journal_, 16(2):2000261, 2021 ([PDF](../files/biot.202000261.pdf))|
 |Evan Wells, Liqing Song, Madison Greer, **Yu Luo**, Varghese Kurian, Babatunde A. Ogunnaike, and Anne S. Robinson. Media supplementation for targeted manipulation of monoclonal antibody galactosylation and fucosylation. _Biotechnology and Bioengineering_, 117(11):3310–3321, July 2020 ([PDF](../files/bit.27496.pdf))|
 |Venkat Venkatasubramanian and **Yu Luo**. How much income inequality is fair? Nash bargaining solution and its connection to entropy. In Anindya Chakrabarti, Lukas Pichl, and Taisei Kaizoji, editors, _Network Theory and Agent-Based Modeling in Economics and Finance_. Springer, Singapore, December 2019 ([PDF](../files/2019c_nbs.pdf))|
@@ -58,6 +61,7 @@ _Version: 2021-12-28_ ([PDF](../files/2_cv.pdf))
 
 |Presentations|
 |:-|
+|**Yu Luo**, Duane Stanton, Rachel Sharp, Kelsey Morgan, and Alexis Parrillo. How to win “20 questions” in process development using a design ofdynamic experiments. In _IFPAC 2023_, North Bethesda, MD, June 2022. Oral presentation|
 |**Yu Luo**. What does the cell say? How to be a better “listener” and “motivate” cells to work harder through advanced data analytics and modeling approaches. In _GSK BPD Science Symposium (Internal)_, King of Prussia, PA, November 2021. Oral presentation|
 |**Yu Luo**. Model-based control of biological processes: systems engineering in biomanufacturing. In _Chemical Engineering Future Faculty Seminar Series_, Santa Barbara, CA, December 2020. Oral presentation|
 |**Yu Luo**, Varghese Kurian, Janine Buonato, Matthew J. Lazzara, and Babatunde A. Ogunnaike. Model-based approach for multivariate signaling regulation of epithelial-mesenchymal transition in pancreas cancer cells. In _AIChE Annual Meeting_, San Francisco, CA, November 2020. Oral presentation|
