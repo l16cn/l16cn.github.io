@@ -7,7 +7,7 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file.
 
 # Instructions
 
@@ -34,6 +34,7 @@ See more info at https://academicpages.github.io/
     + Run `jekyll serve` to serve from localhost without liveserve (but overriding `site.url` and using localhost instead of the site host)
     + If `jekyll serve` gives the "You must use Bundler 2 or greater with this lockfile" error message, try `gem update --system` then `bundler update --bundler`
     + If `jekyll serve` gives an error message like "You have already activated i18n 1.6.0, but your Gemfile requires i18n 0.9.5. Prepending `bundle exec` to your command may solve this. (Gem::LoadError)", follow the suggestion and prepend `bundle exec` to `jekyll serve`
+- Run `bundle exec jekyll serve` to rebuild HTML by refreshing the browser
 - [Target blank feature](https://keith-mifsud.me/projects/jekyll-target-blank)
     + In `gemfile`, include `gem 'jekyll-target-blank'` under `group :jekyll_plugins do`
     + In `_config.yml`, include `- jekyll-target-blank` under `plugins:`

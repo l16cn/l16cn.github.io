@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2023-01-18_ ([PDF](../files/2_cv.pdf))
+_Version: 2023-02-01_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -35,7 +35,7 @@ _Version: 2023-01-18_ ([PDF](../files/2_cv.pdf))
 
 |Time|Position|Affiliation|Supervisors|
 |:-|:-|:-|:-|
-|02/2021–Present|Investigator, Associate Fellow, Biopharm Chemometrics and Process Modeling Expert|GSK, Biopharm Drug Substance Process Development|[Sameer Talwar](https://scholar.google.com/citations?user=KiDvjeYAAAAJ&hl=en), [Diana Ritz](https://www.linkedin.com/in/diana-b-ritz/)|
+|02/2021–Present|Investigator, Associate Fellow, Biopharm Chemometrics and Process Modeling Expert (**Multi-Year Recipient of the IPTc Top Performer Award**)|GSK, Biopharm Drug Substance Process Development|[Sameer Talwar](https://scholar.google.com/citations?user=KiDvjeYAAAAJ&hl=en), [Diana Ritz](https://www.linkedin.com/in/diana-b-ritz/)|
 |06/2017–01/2021|Postdoctoral Researcher|University of Delaware, Chemical and Biomolecular Engineering|[Babatunde A. Ogunnaike](https://yuluo.me/bao-website/), [Kelvin H. Lee](https://leelab.org)|
 |01/2017–05/2017|Postdoctoral Researcher|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
 |09/2011–12/2016|Research and Teaching Assistant|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
