@@ -62,6 +62,7 @@ _Version: 2023-04-22_ ([PDF](../files/2_cv.pdf))
 
 |Presentations|
 |:-|
+|**Yu Luo**, Zach Hatzenbeller, Duane Stanton, Alexis Parrillo, Jared Balaich, Sameer Talwar, and Diana Ritz. A less-traveled path for data in bioporcess development: From dynamic experiments to dynamic process models. In _Cell Culture Engineering XVIII_, Cancun, Mexico, June 2023. Poster presentation|
 |**Yu Luo**, Duane Stanton, Rachel Sharp, Kelsey Morgan, and Alexis Parrillo. How to win “20 questions” in process development using a design ofdynamic experiments. In _IFPAC 2023_, North Bethesda, MD, June 2022. Oral presentation|
 |**Yu Luo**. What does the cell say? How to be a better “listener” and “motivate” cells to work harder through advanced data analytics and modeling approaches. In _GSK BPD Science Symposium (Internal)_, King of Prussia, PA, November 2021. Oral presentation|
 |**Yu Luo**. Model-based control of biological processes: systems engineering in biomanufacturing. In _Chemical Engineering Future Faculty Seminar Series_, Santa Barbara, CA, December 2020. Oral presentation|
