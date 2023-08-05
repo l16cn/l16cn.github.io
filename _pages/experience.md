@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2023-05-15_ ([PDF](../files/2_cv.pdf))
+_Version: 2023-08-05_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -46,6 +46,7 @@ _Version: 2023-05-15_ ([PDF](../files/2_cv.pdf))
 
 |Publications|
 |:-|
+|**Yu Luo**, Duane A. Stanton, Rachel C. Sharp, Alexis J. Parrillo, Kelsey T. Morgan, Diana B. Ritz, and Sameer Talwar. Efficient optimization of time-varying inputs in a fed-batch cell culture process using design of dynamic experiments. Biotechnology Progress, page e3380, 2023 ([PDF](../files/BiotechnologyProgress2023Luo.pdf))|
 |**Yu Luo**, Varghese Kurian, Liqing Song, Evan A. Wells, Anne Skaja Robinson, and Babatunde A. Ogunnaike. Model-based control of titer and glycosylation in fed-batch mab production: Modeling and control system development. _AIChE Journal_, 69(4):e18075, 2023 ([PDF](../files/2023_Luo_2023_AIChE_Journal_Model‐based_control_of_titer_and_glycosylation_in_fed-batch_mAb_production_Modeling_and.pdf))|
 |**Yu Luo**, Johanna Vappiani, Keegan Orzechowski, Pramthesh Patel, Daniel Sevin, and Juan Aon. Metabolic rewiring revealed by cell-specific rate analyses from nontargeted exometabolomics during simultaneous consumption of glucose and lactic acid in a cho fed-batch process. _Journal of Biotechnology_, 359:161–175, 2022 ([PDF](../files/1-s2.0-S0168165622002413-main.pdf))|
 |**Yu Luo**, Varghese Kurian, and Babatunde A. Ogunnaike. Bioprocess systems analysis, modeling, estimation, and control. _Current Opinion in Chemical Engineering_, 33:100705, 2021 ([PDF](../files/1-s2.0-S221133982100037X-main.pdf))|
