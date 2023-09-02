@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2022-12-22_
+_Created: 2014-03-06. Modified: 2023-09-02_
 
 ### Formal bio
 
-Yu Luo is an investigator and core modeler in the Biopharm Drug Substance Process Development Department at GSK. He leads a matrix PAT team to deploy Raman technology to support development and industrialization at pilot and commercial scales. He also routinely uses process systems engineering and data science skills to enhance the productivity of multiple assets. Yu joined GSK in 2021. Prior to that, Yu earned his Ph.D. in Chemical Engineering at Columbia University and worked as a postdoc at the University of Delaware, specializing in model-based control of biological and multi-agent processes. 
+Yu Luo is an investigator and core modeler in the Biopharm Drug Substance Development Department at GSK. He leads a matrix PAT team to deploy Raman technology to support development and industrialization at pilot and commercial scales. He also routinely uses process systems engineering and data science skills to enhance the productivity of multiple assets. Yu joined GSK in 2021. Prior to that, Yu earned his Ph.D. in Chemical Engineering at Columbia University and worked as a postdoc at the University of Delaware, specializing in model-based control of biological and multi-agent processes. 
 
 ### News
 
@@ -117,7 +117,7 @@ My [doctoral thesis](https://doi.org/10.7916/D8FX7G35) is on multi-agent control
 
 ### What do I do for fun?
 
-My "extracurricular" activities are always evolving; I [taught myself](portfolio) piano, music composition, and painting. Right now, I am a podcast addict. Below are a few of my favorite.
+My "extracurricular" activities are always evolving; I [taught myself](portfolio) piano, music composition, and painting. Below are a few of my favorite podcasts.
 
 <!-- Find the podcasts on Apple Podcasts page and inspect image element to retrieve the figure file -->
 
