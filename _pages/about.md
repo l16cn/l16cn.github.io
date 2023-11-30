@@ -16,7 +16,7 @@ Yu Luo is an investigator and core modeler in the Biopharm Drug Substance Develo
 
 ### News
 
-I put together some writing tips: [https://yuluo.me/writing/](https://yuluo.me/writing/)
+I put together some [writing tips](writing) that I learned from the late Prof. Babatunde A. Ogunnaike.
 
 My &quot;modular&quot; job application LaTeX template is now available on [GitHub](https://github.com/l16cn/modular-faculty-template) and [Overleaf](https://www.overleaf.com/latex/templates/modular-faculty-template/ypdtgsfsshkw). Feedback is welcome!
 
