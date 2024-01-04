@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2023-09-02_
+_Created: 2014-03-06. Modified: 2024-01-04_
 
 ### Formal bio
 
-Yu Luo is an investigator and core modeler in the Biopharm Drug Substance Development Department at GSK. He leads a matrix PAT team to deploy Raman technology to support development and industrialization at pilot and commercial scales. He also routinely uses process systems engineering and data science skills to enhance the productivity of multiple assets. Yu joined GSK in 2021. Prior to that, Yu earned his Ph.D. in Chemical Engineering at Columbia University and worked as a postdoc at the University of Delaware, specializing in model-based control of biological and multi-agent processes. 
+Yu Luo is a Principal Investigator and core modeler in the Biopharmaceutical Drug Substance Development (BDSD) Department at GSK. He leads a matrix PAT team to deploy Raman technology to support development and industrialization at pilot and commercial scales. He also routinely uses process systems engineering and data science skills to control and enhance the productivity of multiple assets. Yu joined GSK in 2021. Prior to that, Yu earned his Ph.D. in Chemical Engineering at Columbia University and worked as a postdoc at the University of Delaware, specializing in model-based control of biological and multi-agent processes. 
 
 ### News
 
@@ -117,13 +117,16 @@ My [doctoral thesis](https://doi.org/10.7916/D8FX7G35) is on multi-agent control
 
 ### What do I do for fun?
 
-My "extracurricular" activities are always evolving; I [taught myself](portfolio) piano, music composition, and painting. Below are a few of my favorite podcasts.
+My "extracurricular" activities are always evolving; I [taught myself](portfolio) piano, music composition, and painting. Below are a few of my favorite podcasts (as of January 2024).
 
-<!-- Find the podcasts on Apple Podcasts page and inspect image element to retrieve the figure file -->
+<!-- Find the podcasts on Apple Podcasts page and inspect image element to retrieve the 313-px .webp figure file | No Chinese in URL!! -->
 
-|[![](images/podcast/99pi.jpg)](https://podcasts.apple.com/us/podcast/99-invisible/id394775318) |[![](images/podcast/cortex.jpg)](https://podcasts.apple.com/us/podcast/cortex/id1001591696) |[![](images/podcast/replyall.jpg)](https://podcasts.apple.com/us/podcast/reply-all/id941907967) |[![](images/podcast/withoutfail.jpg)](https://podcasts.apple.com/us/podcast/without-fail/id1437293054) |
-|[![](images/podcast/anthropocene.jpg)](https://podcasts.apple.com/us/podcast/the-anthropocene-reviewed/id1342003491) |[![](images/podcast/jorge.jpg)](https://podcasts.apple.com/us/podcast/daniel-and-jorge-explain-the-universe/id1436616330) |[![](images/podcast/nature.jpg)](https://podcasts.apple.com/us/podcast/nature-podcast/id81934659) |[![](images/podcast/science.jpg)](https://podcasts.apple.com/us/podcast/science-magazine-podcast/id120329020) |
-|[![](images/podcast/conan.jpg)](https://podcasts.apple.com/us/podcast/conan-obrien-needs-a-friend/id1438054347) |[![](images/podcast/atp.jpg)](https://podcasts.apple.com/us/podcast/accidental-tech-podcast/id617416468) |[![](images/podcast/triforce.jpg)](https://podcasts.apple.com/us/podcast/triforce/id304557271) |[![](images/podcast/gamescoop.jpg)](https://podcasts.apple.com/us/podcast/game-scoop/id276268226) |
+|[![](images/podcast/shortwave.webp)](https://podcasts.apple.com/us/podcast/short-wave/id1482575855) |[![](images/podcast/hzhy.webp)](https://podcasts.apple.com/us/podcast/id1493503146) |[![](images/podcast/searchengine.webp)](https://podcasts.apple.com/us/podcast/search-engine/id1614253637) |[![](images/podcast/upgrade.webp)](https://podcasts.apple.com/us/podcast/upgrade/id918152703) |
+|[![](images/podcast/conan.jpg)](https://podcasts.apple.com/us/podcast/conan-obrien-needs-a-friend/id1438054347) |[![](images/podcast/insidetraderjoes.webp)](https://podcasts.apple.com/us/podcast/inside-trader-joes/id1375630453) |[![](images/podcast/triforce.webp)](https://podcasts.apple.com/us/podcast/triforce/id304557271) |[![](images/podcast/gamescoop.jpg)](https://podcasts.apple.com/us/podcast/game-scoop/id276268226) |
+|[![](images/podcast/99pi.jpg)](https://podcasts.apple.com/us/podcast/99-invisible/id394775318) |[![](images/podcast/cortex.jpg)](https://podcasts.apple.com/us/podcast/cortex/id1001591696) |[![](images/podcast/replyall.webp)](https://podcasts.apple.com/us/podcast/reply-all/id941907967) |[![](images/podcast/atp.webp)](https://podcasts.apple.com/us/podcast/accidental-tech-podcast/id617416468)|
+|[![](images/podcast/anthropocene.jpg)](https://podcasts.apple.com/us/podcast/the-anthropocene-reviewed/id1342003491) |[![](images/podcast/jorge.jpg)](https://podcasts.apple.com/us/podcast/daniel-and-jorge-explain-the-universe/id1436616330) |[![](images/podcast/nature.webp)](https://podcasts.apple.com/us/podcast/nature-podcast/id81934659) |[![](images/podcast/science.jpg)](https://podcasts.apple.com/us/podcast/science-magazine-podcast/id120329020) |
+
+<!-- [![](images/podcast/withoutfail.jpg)](https://podcasts.apple.com/us/podcast/without-fail/id1437293054)  -->
 
 <!-- |[99% Invisible](https://podcasts.apple.com/us/podcast/99-invisible/id394775318)|[Cortex](https://podcasts.apple.com/us/podcast/cortex/id1001591696)|[Reply All](https://podcasts.apple.com/us/podcast/reply-all/id941907967)|[Without Fail](https://podcasts.apple.com/us/podcast/without-fail/id1437293054)|
 | :--------------------: | :--------------------: | :---------------------: | :---------------------: |

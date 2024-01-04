@@ -7,6 +7,7 @@ author_profile: true
 
 |Date|News|
 |:-|:-|
+|2023-11-01|YL was promoted to Principal Investigator at GSK|
 |2021-02-01|YL joined GSK (Investigator, Biopharm Chemometrics and Process Modeling Expert).|
 |2020-10-30|YL was invited to give a webinar at GSK.|
 |2020-01-30|YL was invited to give a seminar at Purdue University in West Lafayette, IN.|
