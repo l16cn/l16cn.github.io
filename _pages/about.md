@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2024-01-04_
+_Created: 2014-03-06. Modified: 2024-04-18_
 
 ### Formal bio
 
