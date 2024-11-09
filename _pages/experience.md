@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2024-01-04_ ([PDF](../files/2_cv.pdf))
+_Version: 2024-11-09_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -35,7 +35,7 @@ _Version: 2024-01-04_ ([PDF](../files/2_cv.pdf))
 
 |Time|Position|Affiliation|Supervisors|
 |:-|:-|:-|:-|
-|02/2021–Present|Principal Investigator, Associate Fellow, Biopharm Chemometrics and Process Modeling Expert (**Recipient of the 2023 Gill Lord Exceptional Impact Award, Multi-Year Recipient of the IPTc Top Performer Award**)|GSK, Biopharm Drug Substance Development|[Sameer Talwar](https://scholar.google.com/citations?user=KiDvjeYAAAAJ&hl=en), [Diana Ritz](https://www.linkedin.com/in/diana-b-ritz/)|
+|02/2021–Present|Principal Investigator, Chemometrics & Process Modeling Expert (**Recipient of the 2023 Gill Lord Exceptional Impact Award, Multi-Year Recipient of the IPTc Top Performer Award**)|GSK, Biopharmaceutical Drug Substance Development|[Sameer Talwar](https://scholar.google.com/citations?user=KiDvjeYAAAAJ&hl=en), [Diana Ritz](https://www.linkedin.com/in/diana-b-ritz/)|
 |06/2017–01/2021|Postdoctoral Researcher|University of Delaware, Chemical and Biomolecular Engineering|[Babatunde A. Ogunnaike](https://yuluo.me/bao-website/), [Kelvin H. Lee](https://leelab.org)|
 |01/2017–05/2017|Postdoctoral Researcher|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
 |09/2011–12/2016|Research and Teaching Assistant|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
@@ -46,6 +46,7 @@ _Version: 2024-01-04_ ([PDF](../files/2_cv.pdf))
 
 |Publications|
 |:-|
+|Anastasia Nikolakopoulou, **Yu Luo**, and Zach Hatzenbeller. Towards “tighter” titer: Model predictive control in fed-batch bioreactors. American Control Conference, 2025. In review|
 |**Yu Luo**, Duane A. Stanton, Rachel C. Sharp, Alexis J. Parrillo, Kelsey T. Morgan, Diana B. Ritz, and Sameer Talwar. Efficient optimization of time-varying inputs in a fed-batch cell culture process using design of dynamic experiments. Biotechnology Progress, page e3380, 2023 ([PDF](../files/BiotechnologyProgress2023Luo.pdf))|
 |**Yu Luo**, Varghese Kurian, Liqing Song, Evan A. Wells, Anne Skaja Robinson, and Babatunde A. Ogunnaike. Model-based control of titer and glycosylation in fed-batch mAb production: Modeling and control system development. _AIChE Journal_, 69(4):e18075, 2023 ([PDF](../files/2023_Luo_2023_AIChE_Journal_Model‐based_control_of_titer_and_glycosylation_in_fed-batch_mAb_production_Modeling_and.pdf))|
 |**Yu Luo**, Johanna Vappiani, Keegan Orzechowski, Pramthesh Patel, Daniel Sevin, and Juan Aon. Metabolic rewiring revealed by cell-specific rate analyses from nontargeted exometabolomics during simultaneous consumption of glucose and lactic acid in a cho fed-batch process. _Journal of Biotechnology_, 359:161–175, 2022 ([PDF](../files/1-s2.0-S0168165622002413-main.pdf))|
@@ -108,15 +109,17 @@ _Version: 2024-01-04_ ([PDF](../files/2_cv.pdf))
 |Time|Role|Organization|
 |:-|:-|:-|
 |12/2012–Present|Reviewer|_Computers and Chemical Engineering_. **Recognized as an outstanding reviewer**|
-|||_Biotechnology and Bioengineering_|
-|||_IEEE Conference on Decision and Control_|
-|||_The Canadian Journal of Chemical Engineering_|
 |||_AIChE Journal_|
-|||_Scientific Reports_|
-|||_Frontiers Physiology_|
-|||_Metabolic Engineering Communications_|
+|||_Biotechnology and Bioengineering_|
 |||_Biotechnology Journal_|
+|||_Canadian Journal of Chemical Engineering_|
 |||_Chemical Engineering Research and Design_|
+|||_Frontiers Physiology_|
+|||_IEEE Conference on Decision and Control (CDC)_|
+|||_IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems (DYCOPS)_|
+|||_MDPI Physics_|
+|||_Metabolic Engineering Communications_|
+|||_Scientific Reports_|
 |11/2014–Present|Member, Session Chair|AIChE|
 |12/2012–05/2017|Webmaster, Event Assistant, Graphic Designer|Columbia University, Center for the Management of Systemic Risk|
 
