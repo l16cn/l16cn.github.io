@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-_Created: 2014-03-06. Modified: 2024-04-18_
+_Created: 2014-03-06. Modified: 2025-04-27_
 
 ### Formal bio
 
-Yu Luo is a Principal Investigator and core modeler in the Biopharmaceutical Drug Substance Development (BDSD) Department at GSK. He leads a matrix PAT team to deploy Raman technology to support development and industrialization at pilot and commercial scales. He also routinely uses process systems engineering and data science skills to control and enhance the productivity of multiple assets. Yu joined GSK in 2021. Prior to that, Yu earned his Ph.D. in Chemical Engineering at Columbia University and worked as a postdoc at the University of Delaware, specializing in model-based control of biological and multi-agent processes. 
+Yu Luo is a Senior Principal Investigator and modeling subject matter expert in the Biopharmaceutical Drug Substance Development department at GSK. He joined GSK in 2021 after completing his Ph.D. in Chemical Engineering at Columbia University and a postdoctoral position at the University of Delaware.  
+
+During his tenure at GSK, Yu has played a pivotal role in advancing model-based process development, monitoring, and control. He leads a matrix Process Analytical Technology (PAT) team with members from manufacturing and R&D organizations to advance and industrialize Raman spectroscopy for real-time process monitoring and control at both pilot and commercial scales. Additionally, he applied his modeling skills to enhance the productivity of multiple assets. Notably, he introduced the Design of Dynamic Experiments approach to cell culture process development at GSK, enabling the creation of efficient experiments with dynamic inputs. In collaboration with R&D and Global Supply Chain partners, Yu has developed and deployed digital twins for commercial products and late-phase biologics, thereby enhancing the consistency and productivity during the manufacture of commercial products such as Nucala and Jemperli. 
+
+Yu served as an Associate Fellow at GSK and continues to mentor multiple employees, as well as industry-affiliated Ph.D. students and postdoctoral fellows from various academic institutions. Through these efforts, Yu is advancing scientific innovation both within and outside GSK and nurturing the next generation of talent in bioprocessing. 
+
+<!-- Yu Luo is a Principal Investigator and core modeler in the Biopharmaceutical Drug Substance Development (BDSD) Department at GSK. He leads a matrix PAT team to deploy Raman technology to support development and industrialization at pilot and commercial scales. He also routinely uses process systems engineering and data science skills to control and enhance the productivity of multiple assets. Yu joined GSK in 2021. Prior to that, Yu earned his Ph.D. in Chemical Engineering at Columbia University and worked as a postdoc at the University of Delaware, specializing in model-based control of biological and multi-agent processes.  -->
 
 ### News
+
+I received the 2025 [Martin Sinacore Young Investigator Award](https://engconf.us/conferences/biotechnology/cell-culture-engineering-xix/#header10) and was invited to give an award lecture titled Stories of Growth in Model-Based Process Development, Monitoring, and Control at [Cell Culture Engineering XIX](https://ssl.linklings.net/conferences/CCE/25acccexix_program/views/at_a_glance.html) in Tucson, Arizona.
 
 I put together some [writing tips](writing) that I learned from the late Prof. Babatunde A. Ogunnaike.
 

@@ -7,7 +7,8 @@ author_profile: true
 
 |Date|News|
 |:-|:-|
-|2023-11-01|YL was promoted to Principal Investigator at GSK|
+|2025-03-05|YL received the 2025 [Martin Sinacore Young Investigator Award](https://engconf.us/conferences/biotechnology/cell-culture-engineering-xix/#header10) and was invited to give an award lecture titled Stories of Growth in Model-Based Process Development, Monitoring, and Control at [Cell Culture Engineering XIX](https://ssl.linklings.net/conferences/CCE/25acccexix_program/views/at_a_glance.html) in Tucson, Arizona.|
+|2023-11-01|YL was promoted to Principal Investigator at GSK.|
 |2021-02-01|YL joined GSK (Investigator, Biopharm Chemometrics and Process Modeling Expert).|
 |2020-10-30|YL was invited to give a webinar at GSK.|
 |2020-01-30|YL was invited to give a seminar at Purdue University in West Lafayette, IN.|

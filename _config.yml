@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yu Luo"
   avatar           : yu2017.jpg
-  bio              : "Principal Investigator, GSK"
+  bio              : "Senior Principal Scientist, GSK"
   location         : "PA/NY"
   # employer         : "University of Delaware"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=babatunde+ogunnaike"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           : "l16cn"
-  twitter          : "yuluophd"
+  # twitter          : "yuluophd"
   vine             :
   weibo            :
   xing             :
