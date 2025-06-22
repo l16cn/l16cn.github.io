@@ -7,6 +7,14 @@ author_profile: true
 
 _Please allow the page to load select Tumblr contents. For a complete list, please visit my [portfolio](https://l16cn.tumblr.com)._
 
+### Scientific Graphics
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:EjkflL49PziUeKiTuwfLlQ/787053395556089856/v2" data-did="0dd72c467a9c442710e7496ef3703cd448219e30"  ><a href="https://www.tumblr.com/l16cn/787053395556089856/manim">https://www.tumblr.com/l16cn/787053395556089856/manim</a></div><script async src="https://assets.tumblr.com/post.js?_v=38df9a6ca7436e6ca1b851b0543b9f51"></script>
+
+<!-- <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/63770027165" data-did="941aaa225b313a64cd46cab35ed53bf0d44fbd69"><a href="http://l16cn.tumblr.com/post/63770027165/gossip-simulations-matlab-1-small-mutation">http://l16cn.tumblr.com/post/63770027165/gossip-simulations-matlab-1-small-mutation</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script> -->
+
+<!-- <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/63567367919" data-did="435396e0fb40b210fa61a1ce2b57eaff683d2eba"><a href="http://l16cn.tumblr.com/post/63567367919/my-dream-last-night-matlab">http://l16cn.tumblr.com/post/63567367919/my-dream-last-night-matlab</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script> -->
+
 ### Traditional Arts
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/144906425633" data-did="db6b97bad2f0b16f0743a1723717a18de2bd783a"><a href="http://l16cn.tumblr.com/post/144906425633/is-this-ryan-reynolds-or-nick-jonas">http://l16cn.tumblr.com/post/144906425633/is-this-ryan-reynolds-or-nick-jonas</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>
@@ -26,12 +34,6 @@ _Please allow the page to load select Tumblr contents. For a complete list, plea
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/99067249488" data-did="f5ed860cd4749cd115b0af9825a5b34b1d14f9ea"><a href="http://l16cn.tumblr.com/post/99067249488/my-very-first-attempt-at-typography-its-named">http://l16cn.tumblr.com/post/99067249488/my-very-first-attempt-at-typography-its-named</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/150410100323" data-did="1b20d6673f60a6a111f5bc6471f85e6013e9f6c7"><a href="http://l16cn.tumblr.com/post/150410100323/hierarchy-of-a-sociotechnical-system">http://l16cn.tumblr.com/post/150410100323/hierarchy-of-a-sociotechnical-system</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>
-
-### Scientific Graphics
-
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/63770027165" data-did="941aaa225b313a64cd46cab35ed53bf0d44fbd69"><a href="http://l16cn.tumblr.com/post/63770027165/gossip-simulations-matlab-1-small-mutation">http://l16cn.tumblr.com/post/63770027165/gossip-simulations-matlab-1-small-mutation</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>
-
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/9dNS05gY3F-MWBTtEfwW5Q/63567367919" data-did="435396e0fb40b210fa61a1ce2b57eaff683d2eba"><a href="http://l16cn.tumblr.com/post/63567367919/my-dream-last-night-matlab">http://l16cn.tumblr.com/post/63567367919/my-dream-last-night-matlab</a></div>  <script async src="https://secure.assets.tumblr.com/post.js"></script>
 
 ### Original Scores
 
