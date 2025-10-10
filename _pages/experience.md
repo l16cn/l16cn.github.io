@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2025-03-09_ ([PDF](../files/2_cv.pdf))
+_Version: 2025-10-10_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -35,7 +35,7 @@ _Version: 2025-03-09_ ([PDF](../files/2_cv.pdf))
 
 |Time|Position|Affiliation|Supervisors|
 |:-|:-|:-|:-|
-|02/2021–Present|Principal Investigator, Chemometrics & Process Modeling Expert (**Recipient of the 2025 Martin Sinacore Young Investigator Award [External], 2023 Gill Lord Exceptional Impact Award, Multi-Year Recipient of the IPTc Top Performer Award**)|GSK, Biopharmaceutical Drug Substance Development|[Sameer Talwar](https://scholar.google.com/citations?user=KiDvjeYAAAAJ&hl=en), [Diana Ritz](https://www.linkedin.com/in/diana-b-ritz/)|
+|02/2021–Present|Senior Principal Scientist, Chemometrics & Process Modeling Expert (**Recipient of the 2025 Martin Sinacore Young Investigator Award [External], 2023 Gill Lord Exceptional Impact Award, Multi-Year Recipient of the IPTc Top Performer Award**)|GSK, Biopharmaceutical Drug Substance Development|[Sameer Talwar](https://scholar.google.com/citations?user=KiDvjeYAAAAJ&hl=en), [Diana Ritz](https://www.linkedin.com/in/diana-b-ritz/)|
 |06/2017–01/2021|Postdoctoral Researcher|University of Delaware, Chemical and Biomolecular Engineering|[Babatunde A. Ogunnaike](https://yuluo.me/bao-website/), [Kelvin H. Lee](https://leelab.org)|
 |01/2017–05/2017|Postdoctoral Researcher|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
 |09/2011–12/2016|Research and Teaching Assistant|Columbia University, Chemical Engineering|[Venkat Venkatasubramanian](https://cris.cheme.columbia.edu), [Garud Iyengar](https://ieor.columbia.edu/faculty/garud-iyengar)|
@@ -64,7 +64,9 @@ _Version: 2025-03-09_ ([PDF](../files/2_cv.pdf))
 
 |Presentations|
 |:-|
-|**Yu Luo**, Zach Hatzenbeller, Duane Stanton, Alexis Parrillo, Jared Balaich, Sameer Talwar, and Diana Ritz. A less-traveled path for data in bioporcess development: From dynamic experiments to dynamic process models. In _Cell Culture Engineering XVIII_, Cancun, Mexico, June 2023. Poster presentation|
+|**Yu Luo**|Stories of (professional and cell) growth in model-based process development, monitoring,
+and control. In _Cell Culture Engineering XIX_, Tucson, AZ, April 2025. Invited seminar. **Martin Sinacore Young Investigator Award Lecture**|
+|**Yu Luo**, Zach Hatzenbeller, Duane Stanton, Alexis Parrillo, Jared Balaich, Sameer Talwar, and Diana Ritz. A less-traveled path for data in bioprocess development: From dynamic experiments to dynamic process models. In _Cell Culture Engineering XVIII_, Cancun, Mexico, June 2023. Poster presentation|
 |**Yu Luo**, Duane Stanton, Rachel Sharp, Kelsey Morgan, and Alexis Parrillo. How to win “20 questions” in process development using a design ofdynamic experiments. In _IFPAC 2023_, North Bethesda, MD, June 2022. Oral presentation|
 |**Yu Luo**. What does the cell say? How to be a better “listener” and “motivate” cells to work harder through advanced data analytics and modeling approaches. In _GSK BPD Science Symposium (Internal)_, King of Prussia, PA, November 2021. Oral presentation|
 |**Yu Luo**. Model-based control of biological processes: systems engineering in biomanufacturing. In _Chemical Engineering Future Faculty Seminar Series_, Santa Barbara, CA, December 2020. Oral presentation|
