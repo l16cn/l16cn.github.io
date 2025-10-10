@@ -64,7 +64,7 @@ _Version: 2025-10-10_ ([PDF](../files/2_cv.pdf))
 
 |Presentations|
 |:-|
-|**Yu Luo**|Stories of (professional and cell) growth in model-based process development, monitoring,
+|**Yu Luo**. Stories of (professional and cell) growth in model-based process development, monitoring,
 and control. In _Cell Culture Engineering XIX_, Tucson, AZ, April 2025. Invited seminar. **Martin Sinacore Young Investigator Award Lecture**|
 |**Yu Luo**, Zach Hatzenbeller, Duane Stanton, Alexis Parrillo, Jared Balaich, Sameer Talwar, and Diana Ritz. A less-traveled path for data in bioprocess development: From dynamic experiments to dynamic process models. In _Cell Culture Engineering XVIII_, Cancun, Mexico, June 2023. Poster presentation|
 |**Yu Luo**, Duane Stanton, Rachel Sharp, Kelsey Morgan, and Alexis Parrillo. How to win “20 questions” in process development using a design ofdynamic experiments. In _IFPAC 2023_, North Bethesda, MD, June 2022. Oral presentation|
