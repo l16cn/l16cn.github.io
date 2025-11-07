@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2025-10-10_ ([PDF](../files/2_cv.pdf))
+_Version: 2025-11-07_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -109,12 +109,13 @@ _Version: 2025-10-10_ ([PDF](../files/2_cv.pdf))
 
 |Time|Role|Organization|
 |:-|:-|:-|
-|12/2012–Present|Reviewer|_Computers and Chemical Engineering_. **Recognized as an outstanding reviewer**|
-|||_AIChE Journal_|
+|12/2012–Present|Reviewer|_AIChE Journal_|
 |||_Biotechnology and Bioengineering_|
 |||_Biotechnology Journal_|
 |||_Canadian Journal of Chemical Engineering_|
 |||_Chemical Engineering Research and Design_|
+|||_Computers and Chemical Engineering_. **Recognized as an outstanding reviewer**|
+|||_Control Engineering Practice_|
 |||_Frontiers Physiology_|
 |||_IEEE Conference on Decision and Control (CDC)_|
 |||_IFAC Symposium on Dynamics and Control of Process Systems, including Biosystems (DYCOPS)_|
