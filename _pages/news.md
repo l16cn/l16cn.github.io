@@ -21,7 +21,7 @@ author_profile: true
 |2019-03-28|YL was invited to give a seminar at Stevens Institute of Technology in Hoboken, NJ.|
 |2019-03-15|YL was invited to give a seminar at the University of Waterloo in Canada.|
 
-### Year in Review
+### Year in Review {#year-in-review}
 
 **2025** was a year of steady growth and meaningful milestones in my professional journey. I had the opportunity to reconnect with the bioprocess community through the Advanced Mammalian Biomanufacturing Innovation Center (AMBIC) and the Cell Culture Engineering (CCE) conference. I was honored to receive the Martin Sinacore Young Investigator Award at CCE and to deliver the award lecture remotely—an experience that underscored the collective nature of the work and the mentors, collaborators, and teams who have shaped my path. Within GSK, I continued to focus on translating modeling, model predictive control, and data-driven methods into practical process improvements. The year also brought unexpected recognition through the Transformational Medicines and Vaccines Excellence Award, along with continued opportunities to mentor colleagues.
 
