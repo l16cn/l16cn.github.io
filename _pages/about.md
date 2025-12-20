@@ -22,7 +22,7 @@ Yu served as an Associate Fellow at GSK and continues to mentor multiple employe
 
 ### News
 
-I received the 2025 [Martin Sinacore Young Investigator Award](https://engconf.us/conferences/biotechnology/cell-culture-engineering-xix/#header10) and was invited to give an award lecture titled Stories of Growth in Model-Based Process Development, Monitoring, and Control at [Cell Culture Engineering XIX](https://ssl.linklings.net/conferences/CCE/25acccexix_program/views/at_a_glance.html) in Tucson, Arizona.
+I received the 2025 [Martin Sinacore Young Investigator Award](https://engconf.us/conferences/biotechnology/cell-culture-engineering-xix/#header1) and was invited to give an award lecture titled Stories of Growth in Model-Based Process Development, Monitoring, and Control at [Cell Culture Engineering XIX](https://ssl.linklings.net/conferences/CCE/25acccexix_program/views/at_a_glance.html) in Tucson, Arizona.
 
 I put together some [writing tips](writing) that I learned from the late Prof. Babatunde A. Ogunnaike.
 
