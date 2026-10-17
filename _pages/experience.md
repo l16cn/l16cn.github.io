@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-_Version: 2026-01-10_ ([PDF](../files/2_cv.pdf))
+_Version: 2026-10-17_ ([PDF](../files/2_cv.pdf))
 
 ### Education and Training
 
@@ -46,6 +46,7 @@ _Version: 2026-01-10_ ([PDF](../files/2_cv.pdf))
 
 |Publications|
 |:-|
+|**Yu Luo**, Sumit Pareek, Carolyn Zhang, Kelly Sarnese, Diana Ritz, and Sameer Talwar. A biomanufacturing digital twin for consistent N-1 seed bioreactor transfers for commercial monoclonal antibody production. _Biotechnology and Bioengineering_, page e70400, October 2026 ([PDF](../files/100699467.pdf))|
 |Anastasia Nikolakopoulou, **Yu Luo**, and Zach Hatzenbeller. Towards “tighter” titer: model predictive control in fed-batch bioreactors. In _2025 American Control Conference (ACC)_, pages 2329–2335, 2025|
 |**Yu Luo**, Duane A. Stanton, Rachel C. Sharp, Alexis J. Parrillo, Kelsey T. Morgan, Diana B. Ritz, and Sameer Talwar. Efficient optimization of time-varying inputs in a fed-batch cell culture process using design of dynamic experiments. _Biotechnology Progress_, page e3380, 2023 ([PDF](../files/BiotechnologyProgress2023Luo.pdf))|
 |**Yu Luo**, Varghese Kurian, Liqing Song, Evan A. Wells, Anne Skaja Robinson, and Babatunde A. Ogunnaike. Model-based control of titer and glycosylation in fed-batch mAb production: Modeling and control system development. _AIChE Journal_, 69(4):e18075, 2023 ([PDF](../files/2023_Luo_2023_AIChE_Journal_Model‐based_control_of_titer_and_glycosylation_in_fed-batch_mAb_production_Modeling_and.pdf))|
