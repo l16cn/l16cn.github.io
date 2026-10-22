@@ -146,6 +146,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - wechat-posts
 keep_files:
   - .git
   - .svn

@@ -42,6 +42,24 @@ See more info at https://academicpages.github.io/
     + Run `bundle install`
     + Be sure to only use ASCII in URLs and 
 
+# Family WeChat posts (`wechat-posts/`)
+
+Plain-language Chinese write-ups of my papers, styled like a science-news article, to share with family as WeChat notes. They are personal keepsakes, are excluded from the website build (`exclude:` in `_config.yml`), and are not official press coverage.
+
+To create a new one, give Claude the paper PDF (or DOI) and the style example, then follow these steps:
+
+1. Extract the paper text. `pdftotext` may not run on this Mac, so use PDFKit via a small Swift script (`import PDFKit`, print each page's `.string`). Read the abstract, introduction, "Limitations and Future Work" and conclusion.
+2. Get citation details from the paper's DOI via Crossref (`https://api.crossref.org/works/<doi>`) for authors, title, journal and date.
+3. Paste a sample article (for example, from Nature's WeChat account) as the style reference. Mimic its structure: catchy question-style headline, one-line standfirst, short background, what the team did, results, and a closing outlook, then affiliations and references.
+4. Write for non-specialists. Replace jargon with everyday analogies, and use only facts from the paper or that I state myself. Never invent numbers or interview quotes; write my own context as narration, not as direct quotes.
+5. Conventions used so far:
+    + Use my Chinese name 罗雨 in the body, and say first author and/or corresponding author as appropriate.
+    + Use full-width Chinese punctuation (，。：；（）) in Chinese text and half-width only in English reference entries.
+    + Do not name commercial products. Only mention background (e.g. a hackathon) that has already been presented externally.
+    + Keep limitations short and merged into "Future outlook", so they do not overshadow the positive message.
+    + Start with a disclaimer line saying it is written in the style of a Nature article, for family sharing only, and not an official report.
+6. Save it as `wechat-posts/<year>-<short-name>.md`, then paste it into a WeChat note.
+
 # Changelog -- bugfixes and enhancements
 
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
