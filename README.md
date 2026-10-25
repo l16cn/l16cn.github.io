@@ -55,6 +55,7 @@ To create a new one, give Claude the paper PDF (or DOI) and the style example, t
 5. Conventions used so far:
     + Use my Chinese name 罗雨 in the body, and say first author and/or corresponding author as appropriate.
     + Use full-width Chinese punctuation (，。：；（）) in Chinese text and half-width only in English reference entries.
+    + State the publication year whenever a paper is introduced in the body (for example, "2023年，……发表在……"), not only in the reference list.
     + Do not name commercial products. Only mention background (e.g. a hackathon) that has already been presented externally.
     + Keep limitations short and merged into "Future outlook", so they do not overshadow the positive message.
     + Put a disclaimer line directly below the title, saying it is written in the style of a Nature article, for family sharing only, and not an official report.
