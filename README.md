@@ -58,7 +58,8 @@ To create a new one, give Claude the paper PDF (or DOI) and the style example, t
     + Do not name commercial products. Only mention background (e.g. a hackathon) that has already been presented externally.
     + Keep limitations short and merged into "Future outlook", so they do not overshadow the positive message.
     + Put a disclaimer line directly below the title, saying it is written in the style of a Nature article, for family sharing only, and not an official report.
-6. Save it as `wechat-posts/<year>-<short-name>.md`, then paste it into a WeChat note.
+6. Save it as `wechat-posts/<year>-<short-name>.md`. After every creation or update, print the full post in chat so I can preview and copy it.
+7. Paste it into a WeChat note.
 
 # Changelog -- bugfixes and enhancements
 
