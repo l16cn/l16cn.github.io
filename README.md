@@ -57,7 +57,7 @@ To create a new one, give Claude the paper PDF (or DOI) and the style example, t
     + Use full-width Chinese punctuation (，。：；（）) in Chinese text and half-width only in English reference entries.
     + Do not name commercial products. Only mention background (e.g. a hackathon) that has already been presented externally.
     + Keep limitations short and merged into "Future outlook", so they do not overshadow the positive message.
-    + Start with a disclaimer line saying it is written in the style of a Nature article, for family sharing only, and not an official report.
+    + Put a disclaimer line directly below the title, saying it is written in the style of a Nature article, for family sharing only, and not an official report.
 6. Save it as `wechat-posts/<year>-<short-name>.md`, then paste it into a WeChat note.
 
 # Changelog -- bugfixes and enhancements
